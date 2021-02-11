@@ -2,7 +2,7 @@
 
 #### Term
 
-The Joystream Founding Member Program was formally launched during February 2021.
+The Joystream Founding Member Program was formally launched on 12th February 2021.
 The program will stop accepting new submissions (activity summaries) and awarding further leaderboard points approximately one month in advance of the mainnet launch, on the snapshot date, yet to be confirmed.
 
 _Our current target for mainnet launch is during Q4 2021, though this is subject to change._
@@ -61,9 +61,9 @@ When reporting contributions, the [correct format](/SUBMISSION-GUIDELINES.md) fo
 
 Any member can earn leaderboard points for referring other contributors to the platform.
 
-Currently, the `referral discount` is 80%, meaning the referrer will earn 0.2 multiplied by the points earned by their referrals.
+Currently, the `referral bonus` is 20%, meaning the referrer will earn 0.2 multiplied by the points earned by their referrals.
 
-We will collect information on referrals when we induct Founding Members, by asking when people join the Telegram group, and through various other enquiries. 
+We will collect information on referrals when we induct Founding Members, by asking when people join the Telegram group, and through various other enquiries.
 
 #### Updates To These Rules
 

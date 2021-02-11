@@ -18,6 +18,10 @@
     <a href="/scoring-periods/1.md">
       Period Annoucement
     </a>
+    <span> | </span>
+    <a href="/inducted/README.md">
+      Current Founding Members
+    </a>
   </h4>
 </div>
 </br>
@@ -62,7 +66,7 @@ The full rules of the Founding Member Program can be found [here](/RULES.md).
 
 ## Submission Guidance
 
-Activity summaries can be submitted using the [form on our website](https://www.joystream.org/founding-members/form), or by sending us a PGP-signed email.
+Activity summaries can be submitted using the [form on our website](https://www.joystream.org/founding-members/form), or by sending us an email.
 
 You can find out how to do either of these and the accepted formats for submission [here](/SUBMISSION-GUIDANCE.md). This document also contains a template and exemplar activity summaries, to give you an idea of what we expect submissions to contain.
 
@@ -70,7 +74,7 @@ You can find out how to do either of these and the accepted formats for submissi
 
 We have also added some guidance to highlight what we consider to be some of the highest value contributions towards the growth and success of the project.
 
-Read the non-exhaustive list of contributions and indicative point rewards. [here](/CONTRIBUTIONS.md).
+Read the non-exhaustive list of contributions and indicative point rewards [here](/CONTRIBUTIONS.md).
 
 ## Scoring Periods
 
@@ -80,17 +84,20 @@ _Note: The first scoring period will actually be two scoring periods running at 
 
 ### Current Period
 
-The current scoring period is: [**#1**](/scoring-periods/1.md) <br>(and [_**#0**_](/scoring-periods/0.md), concurrently)
+The current scoring period is: [_**#0**_](/scoring-periods/0.md).
+The current scoring period started on `N/A` and will end on `28/02/21`.
 
-The current scoring period started on `DD/MM/YY` and will end on `DD/MM/YY`.
+We have made a public announcement about the current period [here](/scoring-periods/0.md).
 
-We have made a public announcement about the current period [here](/scoring-periods/1.md).
+<!---
 
 ### Previous Period
 
 The previous scoring period began on `N/A` and ended on `N/A`.
 
 Read our comments and observations about the previous period [here](/scoring-periods/0.md).
+
+-->
 
 ## Questions and Concerns
 

@@ -13,7 +13,7 @@ As we learn more about the evolving ways in which our community can contribute, 
 ### Example Tasks
 
 Network Integrity:
-- running a validator [indicative score: 500]
+- running a validator [indicative score: 50 per day]
   - since running even a validator node contributes to the security of the platform and allows you to hook yourself up to the heart of our network, we want to recognize and reward this common and relatively straightforward first step towards further engagement in the project.
   - because there is little additional benefit in terms of learning about the project from setting up more than one node, we are likely to offer smaller rewards for further nodes you set up, though these will still qualify for rewards.
   - you should also be aware that validators can earn further formal rewards on our current testnet
@@ -39,10 +39,12 @@ Community Communication:
   - if you have a big idea about some project, bounty or other improvement for the community, you can share it with us on GitHub, the platform forum or using the proposals system
   - depending on whether Jsgenesis and the community likes your idea, it is likely to be eligible for leaderboard points (in addition to funding via the platform)
 
+<!--
 Accessibility:
 - translations [indicative score: 250 per 500 words, depending on quality and subject to review/verification]
   - translations are very important to make the project accessible to as many people as possible, and we will reward translation of important documents with leaderboard points
   - note that making original content or tutorials in other languages about the project will also qualify for rewards, though in some cases will warrant less than the equivalent contribution in English
+-->
 
 Enriching Testnet:
 - improving content metadata and reporting issues to content curators [indicative score: 5->10 per correction]
@@ -77,7 +79,7 @@ Testing:
 
 Regular Contributions [indicative score: variable!]:
 - Bounties
-  - The completion of official bounties can be included in your regular Founding Member summary and these will usually result in points being awarded.
+  - The completion of official bounties can be included in your regular Founding Member summary and these will usually result in points being awarded. The number of leaderboard points will be proportional to the reward value of the bounty.
 - KPIs
   - If you can provide evidence that you played a significant role in the Council achieving a specific KPI, you can also include this in your regular summary.
 - Roles
@@ -85,4 +87,4 @@ Regular Contributions [indicative score: variable!]:
 
 Referrals:
 - Referring other people to the project who go on to submit leaderboard summaries will also qualify for rewards (they don't have to ultimately become Founding Members, just earn points).
-  - At the moment the referral discount is 80% meaning you will earn 0.2x the points earned by your referrals.
+  - At the moment the referral bonus is 20%, meaning you will earn 0.2x the points earned by your referrals.
