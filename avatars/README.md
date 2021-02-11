@@ -17,25 +17,25 @@ This repo holds a number of different variants of each avatar, which can be comp
 
 These can be found in the `/primary-avatar/` folder.
 
-<img width="100" src="/primary-avatar/1.png">
-<img width="100" src="/primary-avatar/4.png">
-<img width="100" src="/primary-avatar/2.png">
-<img width="100" src="/primary-avatar/19.png">
+<img width="100" src="/avatars/primary-avatar/1.png">
+<img width="100" src="/avatars/primary-avatar/4.png">
+<img width="100" src="/avatars/primary-avatar/2.png">
+<img width="100" src="/avatars/primary-avatar/19.png">
 
 #### Joystream Blue Style
 
 These can be found in the `/blue-avatar-light/` folder.
 
-<img width="100" src="/blue-avatar-light/17.png">
-<img width="100" src="/blue-avatar-light/18.png">
-<img width="100" src="/blue-avatar-light/3.png">
-<img width="100" src="/blue-avatar-light/26.png">
+<img width="100" src="/avatars/blue-avatar-light/17.png">
+<img width="100" src="/avatars/blue-avatar-light/18.png">
+<img width="100" src="/avatars/blue-avatar-light/3.png">
+<img width="100" src="/avatars/blue-avatar-light/26.png">
 
 #### Joystream Blue Style With Bold Outline
 
 These can be found in the `/blue-avatar-bold/` folder.
 
-<img width="100" src="/blue-avatar-bold/13.png">
-<img width="100" src="/blue-avatar-bold/16.png">
-<img width="100" src="/blue-avatar-bold/25.png">
-<img width="100" src="/blue-avatar-bold/31.png">
+<img width="100" src="/avatars/blue-avatar-bold/13.png">
+<img width="100" src="/avatars/blue-avatar-bold/16.png">
+<img width="100" src="/avatars/blue-avatar-bold/25.png">
+<img width="100" src="/avatars/blue-avatar-bold/31.png">
