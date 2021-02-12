@@ -1,0 +1,148 @@
+{
+  "scoringPeriodsFull": {
+    "currentScoringPeriod": {
+      "scoringPeriodId": 1,
+      "started": "2021-02-15T00:00:00+02:00",
+      "ends": "2021-02-28T23:59:59+02:00"
+    },
+    "previousScoringPeriods":
+    [
+      {
+        "scoringPeriodId": 0,
+        "started": "2020-09-21T10:58:42+02:00",
+        "ended": "2021-02-15T00:00:00+02:00",
+        "referralRate": 0.2,
+        "submittedSummaries":
+        [
+        ],
+        "totalDirectScore": 0,
+        "totalReferralScore": 0
+      }
+    ]
+  },
+  "totalScoresFull": {
+    "directScores": [
+    ],
+    "referralScores": [
+    ],
+    "totalScores": [
+    ]
+  },
+  "poolStats": {
+    "currentPoolSize": 15,
+    "baseAllocation": 0.02,
+    "allocatedFromPool": 0
+  },
+  "currentFoundingMembers": [
+    {
+      "memberHandle": "tomato",
+      "memberId": 2,
+      "inducted":
+      {
+        "fmId": 1,
+        "inductedScoringPeriodId": 0,
+        "inductedDate": "2021-02-21",
+        "avatar": "https://github.com/Joystream/founding-members/avatars/primary-avatar/31.png"
+      },
+      "extraAllocation": 0,
+      "summariesSubmitted":
+      [
+      ],
+      "totalDirectScore": 0,
+      "referrals":
+      [
+      ],
+      "totalReferralScore": 0,
+      "referrer": null,
+      "totalScore": 0
+    },
+    {
+      "memberHandle": "nexusfallout",
+      "memberId": 4,
+      "inducted":
+      {
+        "fmId": 2,
+        "inductedScoringPeriodId": 0,
+        "inductedDate": "2021-02-21",
+        "avatar": "https://github.com/Joystream/founding-members/avatars/primary-avatar/-.png"
+      },
+      "extraAllocation": 0,
+      "summariesSubmitted":
+      [
+      ],
+      "totalDirectScore": 0,
+      "referrals":
+      [
+      ],
+      "totalReferralScore": 0,
+      "referrer": null,
+      "totalScore": 0
+    },
+    {
+      "memberHandle": "enjoythefood",
+      "memberId": 5,
+      "inducted":
+      {
+        "fmId": 3,
+        "inductedScoringPeriodId": 0,
+        "inductedDate": "2021-02-21",
+        "avatar": "https://github.com/Joystream/founding-members/avatars/primary-avatar/-.png"
+      },
+      "extraAllocation": 0,
+      "summariesSubmitted":
+      [
+      ],
+      "totalDirectScore": 0,
+      "referrals":
+      [
+      ],
+      "totalReferralScore": 0,
+      "referrer": null,
+      "totalScore": 0
+    },
+    {
+      "memberHandle": "freakstatic",
+      "memberId": 306,
+      "inducted":
+      {
+        "fmId": 5,
+        "inductedScoringPeriodId": 0,
+        "inductedDate": "2021-02-21",
+        "avatar": "https://github.com/Joystream/founding-members/avatars/primary-avatar/-.png"
+      },
+      "extraAllocation": 0,
+      "summariesSubmitted":
+      [
+      ],
+      "totalDirectScore": 0,
+      "referrals":
+      [
+      ],
+      "totalReferralScore": 0,
+      "referrer": null,
+      "totalScore": 0
+    },
+    {
+      "memberHandle": "l1dev",
+      "memberId": 515,
+      "inducted":
+      {
+        "fmId": 6,
+        "inductedScoringPeriodId": 0,
+        "inductedDate": "2021-02-21",
+        "avatar": "https://github.com/Joystream/founding-members/avatars/primary-avatar/-.png"
+      },
+      "extraAllocation": 0,
+      "summariesSubmitted":
+      [
+      ],
+      "totalDirectScore": 0,
+      "referrals":
+      [
+      ],
+      "totalReferralScore": 0,
+      "referrer": null,
+      "totalScore": 0
+    }
+  ]
+}

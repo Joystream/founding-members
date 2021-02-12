@@ -1,0 +1,25 @@
+**Referred by**
+Member ID: 1337
+Member handle: `elite`
+(skip this if not applicable)
+
+**Scoring Period 1**
+1. Community Assistance
+Date: 01.02.2021
+Description: I assisted a user on telegram with how to become a validator.
+Link: some.telegram.link
+
+2. Solved bounty #3
+Date: 02.02.2021
+Description: I completed bounty #3, and all success events were passed fully.
+Link: some.github.link
+
+**Scoring Period 2**
+1. Validator
+Date: 05.02.2021-09.02.2021
+Description: I was a validator from block #1337 to #11337, with stash account `5myStashAccount`. I have signed the message: `I am memberId n` with `5myStashAccount`, producing the signature `0x5a0fc80ec663ba3bf95e19f434ef999d86ec7ff8a95848f74d2111d1d54f62690bc1d31a13a9a156543e68401f87202a9ba73154aa20a4a8753baab850be038d`
+Link: link.to.block.found
+2. Content Creation
+Date: 05.02.2021-09.02.2021
+Description: Between these two dates, I created the channel "My Channel" with ID 1337, and uploaded videos with ID 1342, 1347 and 1352. All videos are of high quality, and was approved by the curator, ref forum post below.
+Link: link.to.forum.post
