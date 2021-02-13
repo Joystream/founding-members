@@ -1,8 +1,8 @@
 ## Submission Guidelines
 
-There are two ways to submit your activities. The primary method is to use the [website](#website-form), whereas the secondary is to send by [email](#email) to `founding.members (at) jsgenesis.com`.
+There are two ways to submit your activities. The primary method is to use the form on our [website](#website-form), while the other is to send your summary by [email](#email) to `founding.members (at) jsgenesis.com`.
 
-Note that in either case, make sure you include all your activities up until the end of the scoring round. When you have submitted for round `n`, you can no longer include any activity that **took place before the end of that round**. Hence, anything that was concluded in round `n-1` or `n`, will not be accepted. This rule may sound strict, but if not, it would be very difficult for us to spot if something was submitted twice...
+Note that in either case, make sure you include all your activities up until the end of the scoring round. When you have submitted for round `n`, you can no longer include any activity that **took place before the end of that round**. Hence, anything that was concluded in round `n-1` or `n`, will not be accepted. This rule is to prevent us awarding points for the same activity more than once.
 
 
 ### Text File
