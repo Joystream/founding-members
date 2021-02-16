@@ -56,7 +56,7 @@ The program is intended to run until the platform is ready to go live on mainnet
 
 A scoring period is a term defined by a starting date and end date. Note down all of your actions that you think will qualify for [points](#scoring-guidance), and submit them after the end of the period.
 
-Within a week of the end of a scoring period, Jsgenesis will review and "grade" all [submissions](#submission-guidance) in the inbox, and update the website with the most recent scores. If anyone reaches the (TBD) threshold to become a Founding Members they are inducted. You can read about the previous and current scoring periods below.
+Within a week of the end of a scoring period, Jsgenesis will review and "grade" all [submissions](#submission-guidance) in the inbox, and update the website with the most recent scores. If anyone reaches the internal threshold to become a Founding Member they will be inducted. You can read about the previous and current scoring periods below.
 
 We are targeting two weeks long scoring periods at the moment, but this may change in the future.
 
