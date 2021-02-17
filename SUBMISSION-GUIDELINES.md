@@ -74,7 +74,7 @@ Using [this form](https://www.joystream.org/founding-members/form/) on the proje
 1. type/paste in the your membership `handle`
 2. upload the .json to your browser (local storage only, your file will not be exposed)
 3. type in your [keybase](https://keybase.io/) handle (if you don't have keybase, get an account so we can contact you there), and upload a .txt file of your activities
-4. sign with your membership key and submit
+4. sign with your membership key and submit (membership key is the address 48 characters long, with it you paid for membership)
 
 What happens under the hood is the following:
 - your address is looked up on chain, and matched with your membership `handle` and `id`
