@@ -54,11 +54,11 @@ The program is intended to run until the platform is ready to go live on mainnet
 
 ## Scoring Periods
 
-A scoring period is a term defined by a starting date and end date. Note down all of your actions that you think will qualify for [points](#scoring-guidance), and submit them after the end of the period.
+A scoring period is a term defined by a start and end date. Note down all of your actions that you think will qualify for [points](#scoring-guidance), and [submit them](#submission-guidance) after the period has ended.
 
 Within a week of the end of a scoring period, Jsgenesis will review and "grade" all [submissions](#submission-guidance) in the inbox, and update the website with the most recent scores. If anyone reaches the internal threshold to become a Founding Member they will be inducted. You can read about the previous and current scoring periods below.
 
-We are targeting two weeks long scoring periods at the moment, but this may change in the future.
+We are targeting two week long scoring periods at the moment, but this may change in the future.
 
 Some important considerations:
 - Although you can submit for multiple scoring periods in the same form, we encourage you send them as soon as possible after the end of each, to reduce the chance of you forgetting something, and avoid large backlogs.
@@ -80,7 +80,7 @@ The full rules of the Founding Member Program can be found [here](/RULES.md).
 ### Current Period
 
 Currently there are two scoring periods running.
-- [Scoring Period #0](/scoring-periods/0.md), which is meant to allow existing community members to get their just "rewards" for actions performed previously. This means all your activities, on the current chain (launched 21st of September 2020) and all "offchain" activities (from the start of Joystream), until the start of Scoring Period #1 qualifies.
+- [Scoring Period #0](/scoring-periods/0.md), which is meant to allow existing community members to get their "just rewards" for actions performed previously. This means all your activities on the current chain (launched 21st of September 2020) and all "offchain" activities (since the genesis of the project), until the start of Scoring Period #1 will qualify.
 - [Scoring Period #1](/scoring-periods/1.md) which started on the 15th of February, and ends on the 28th of February.
 
 ## Submission Guidance

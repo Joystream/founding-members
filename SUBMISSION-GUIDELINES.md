@@ -63,8 +63,8 @@ Link: link.to.forum.post
 
 ### Best Practices
 - Keep it brief, but include all relevant information.
-- In cases when your activity took place of a PR, (eg. a bounty, bug fix, etc.), use the date of which the PR was merged or closed.
-- If you reported a bugfix, or made an issue for other purposes, use the date of which the issue was opened.
+- In cases when your activity took place of in the form of a pull request, (eg. a bounty, bug fix, etc.), use the date of which the PR was merged or closed.
+- If you reported a bugfix, or made an issue for other purposes, use the date on which the issue was opened.
 - If you've held a role, the date range should be the dates you are requesting points for. However, you are also encouraged to specify when you got the role.
 
 
