@@ -87,7 +87,7 @@ Currently there are two scoring periods running.
 
 Activity summaries can be submitted using the [form on our website](https://www.joystream.org/founding-members/form), or by sending us an email.
 
-You can find out how to do either of these and the accepted formats for submission [here](/SUBMISSION-GUIDANCE.md). This document also contains a template and exemplar activity summaries, to give you an idea of what we expect submissions to contain.
+You can find out how to do either of these and the accepted formats for submission [here](/SUBMISSION-GUIDELINES.md). This document also contains a template and exemplar activity summaries, to give you an idea of what we expect submissions to contain.
 
 ## Scoring Guidance
 
