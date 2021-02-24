@@ -1,42 +1,72 @@
-## Submission Guidelines
+Submission Guidelines
+===
 
+<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+  - [Overview](#overview)
+    - [Text File](#text-file)
+    - [Text Example](#text-example)
+    - [Best Practices](#best-practices)
+    - [Website Form](#website-form)
+    - [Email Submission](#email-submission)
+<!-- TOC END -->
+
+
+## Overview
 There are two ways to submit your activities. The primary method is to use the form on our [website](#website-form), while the other is to send your summary by [email](#email) to `founding.members (at) jsgenesis.com`.
 
 Note that in either case, make sure you include all your activities up until the end of the scoring round. When you have submitted for round `n`, you can no longer include any activity that **took place before the end of that round**. Hence, anything that was concluded in round `n-1` or `n`, will not be accepted. This rule is to prevent us awarding points for the same activity more than once.
-
 
 ### Text File
 Your activities must be written up in a .txt file structured like this:
 
 ```
-Scoring Period n`
+I am
+Member ID: <myId>
+Member handle: <myHandle>
+Membership Controller: <5myMemberShipControllerAccount>
+
+Referred by
+Member ID: <referrerId>
+Member handle: <referrerHandle>
+(skip this if not applicable)
+
+Scoring Period <i>:
 
 1. Title
 Date:
 Description:
 Link:
+Signature?:
 2. Title
 Date:
 Description:
-Link:
+Link?:
+Signature?:
 ...
-m. Title
+n. Title
 Date:
 Description:
-Link:
+Link?:
+Signature?:
 
-Scoring Period n+1
+Scoring Period <i+1>
 1. Title
 Date:
 Description:
-Link:
+Link?:
+Signature?:
 ...
 ```
 Remember to include the person who "referred" you (made you aware of Joystream and/or the program) if applicable.
 
 ### Text Example
+**I am**
+Member ID: `133`
+Member handle: `joystream`
+Membership Controller: `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6`
+
 **Referred by**
-Member ID: 1337
+Member ID: `1337`
 Member handle: `elite`
 (skip this if not applicable)
 
@@ -44,7 +74,7 @@ Member handle: `elite`
 1. Community Assistance
 Date: 01.02.2021
 Description: I assisted a user on telegram with how to become a validator.
-Link: some.telegram.link
+Link: some.telegramOrDiscord.link
 
 2. Solved bounty #3
 Date: 02.02.2021
@@ -54,8 +84,10 @@ Link: some.github.link
 **Scoring Period 2**
 1. Validator
 Date: 05.02.2021-09.02.2021
-Description: I was a validator from block #1337 to #11337, with stash account `5myStashAccount`. I have signed the message: `I am memberId n` with `5myStashAccount`, producing the signature `0x5a0fc80ec663ba3bf95e19f434ef999d86ec7ff8a95848f74d2111d1d54f62690bc1d31a13a9a156543e68401f87202a9ba73154aa20a4a8753baab850be038d`
-Link: link.to.block.found
+Description: I was a validator from block/era #1337/2 to #11337/10, with stash account `5myValidatorStashAccount`. (I was active in all the eras in this range, and found a total of 1000 blocks.)
+I have signed the message: "I am member id/handle `133/joystream` with `5myValidatorStashAccount`" with my membership ctrl account - `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6`
+Signature: `0xbef075b361b6c36c4abbeea47b40b1cc3652c3d6ea7917a83d6ee8231fd1e12286c3d23f475bd98cb001fc182b9a21674cc01b7dbedbb2f59216bb0b6c35138b`
+
 2. Content Creation
 Date: 05.02.2021-09.02.2021
 Description: Between these two dates, I created the channel "My Channel" with ID 1337, and uploaded videos with ID 1342, 1347 and 1352. All videos are of high quality, and was approved by the curator, ref forum post below.
@@ -118,8 +150,8 @@ Signature: `0xsignatureInHex`
 With the example above, as replicated as [example.txt](/data/example.txt):
 ```
 $ shasum -a256 /path/to/example.txt
-348a7fc8e95024edf2b21b0c95df0118950e70e67c1c7662f6c41859731ad4e2 /path/to/example.txt
+2471b5c2bad70e523af98e436ae7ac8416bd4ca4ce4cd4e38d7a058f089fe1fe /path/to/example.txt
 ```
-Signing `e69eebba487a5ae13c0124d5b2bd38a4b289e23738f8b82ee0b7cb531e6761b3` with account `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6`, returns the signature `0xc2db97479a07155416e2326b072cd4bfa16c0e6bd00025b38e4097552f431d46de01bcc9ee753e9c4aac0c51d53b1a1b70cf4d503685a948a5a88982ff7f2280`.
+Signing `2471b5c2bad70e523af98e436ae7ac8416bd4ca4ce4cd4e38d7a058f089fe1fe` with account `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6`, returns the signature `0x14cd1628f2ae8fa9ec549cfcbe899482439183896c2587022b663c59f0e1de3252a07b7f3153152956b9641354490f74a289e94adce38d0d81f0a52bcdc3c48c`.
 
 Which you can verify [here](https://testnet.joystream.org/#/toolbox/verify).

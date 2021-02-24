@@ -1,5 +1,10 @@
+**I am**
+Member ID: `133`
+Member handle: `joystream`
+Membership Controller: `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6`
+
 **Referred by**
-Member ID: 1337
+Member ID: `1337`
 Member handle: `elite`
 (skip this if not applicable)
 
@@ -7,7 +12,7 @@ Member handle: `elite`
 1. Community Assistance
 Date: 01.02.2021
 Description: I assisted a user on telegram with how to become a validator.
-Link: some.telegram.link
+Link: some.telegramOrDiscord.link
 
 2. Solved bounty #3
 Date: 02.02.2021
@@ -17,8 +22,10 @@ Link: some.github.link
 **Scoring Period 2**
 1. Validator
 Date: 05.02.2021-09.02.2021
-Description: I was a validator from block #1337 to #11337, with stash account `5myStashAccount`. I have signed the message: `I am memberId n` with `5myStashAccount`, producing the signature `0x5a0fc80ec663ba3bf95e19f434ef999d86ec7ff8a95848f74d2111d1d54f62690bc1d31a13a9a156543e68401f87202a9ba73154aa20a4a8753baab850be038d`
-Link: link.to.block.found
+Description: I was a validator from block/era #1337/2 to #11337/10, with stash account `5myValidatorStashAccount`. (I was active in all the eras in this range, and found a total of 1000 blocks.)
+I have signed the message: "I am member id/handle `133/joystream` with `5myValidatorStashAccount`" with my membership ctrl account - `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6`
+Signature: `0xbef075b361b6c36c4abbeea47b40b1cc3652c3d6ea7917a83d6ee8231fd1e12286c3d23f475bd98cb001fc182b9a21674cc01b7dbedbb2f59216bb0b6c35138b`
+
 2. Content Creation
 Date: 05.02.2021-09.02.2021
 Description: Between these two dates, I created the channel "My Channel" with ID 1337, and uploaded videos with ID 1342, 1347 and 1352. All videos are of high quality, and was approved by the curator, ref forum post below.
