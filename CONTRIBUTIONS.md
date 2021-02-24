@@ -14,10 +14,17 @@ As we learn more about the evolving ways in which our community can contribute, 
 
 Network Integrity:
 - running a validator [indicative score: 50 per day]
-  - since running even a validator node contributes to the security of the platform and allows you to hook yourself up to the heart of our network, we want to recognize and reward this common and relatively straightforward first step towards further engagement in the project.
+  - since running a validator node contributes to the security of the platform and allows you to hook yourself up to the heart of our network, we want to recognize and reward this common and relatively straightforward first step towards further engagement in the project.
   - because there is little additional benefit in terms of learning about the project from setting up more than one node, we are likely to offer smaller rewards for further nodes you set up, though these will still qualify for rewards.
   - you should also be aware that validators can earn further formal rewards on our current testnet
-
+  - note that you can only get points for a single validator, as these are also rewarded in tokens
+- running a node [indicative score: up to 50 per day]
+  - running a node (that is not validating) can have almost the same value as running a validator, is cheaper, easier, and comes with less risk:
+    - you do not have to to run your node with `--pruning="archive"` (less storage)
+    - you don't need as good hardware, or connection (to other vals), to quickly validate and produce blocks
+    - you don't need to stake, thus no risk getting slashed if your node goes down
+    - on the downside, you do not produce blocks for the network, and don't earn block rewards
+  - see more information [here](/points/README.md#node-operators)
 
 Community Communication:
 - discussing the project on twitter/discord/telegram/reddit [indicative score: 10 -> 100]
