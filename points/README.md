@@ -29,7 +29,7 @@ ExecStart=/root/joystream-node \
         --pruning archive \
         --validator \
         --name <memberId-memberHandle> \
-        --telemetry-url "wss://telemetry.joystream.org/submit 0" \
+        --telemetry-url "wss://telemetry.joystream.org/submit/ 0" \
         --telemetry-url "wss://telemetry.polkadot.io/submit/ 0"
 Restart=on-failure
 RestartSec=3
