@@ -63,7 +63,7 @@ Any member can earn leaderboard points for referring other contributors to the p
 
 Currently, the `referral bonus` is 20%, meaning the referrer will earn 0.2 multiplied by the points earned by their referrals.
 
-We will collect information on referrals when we induct Founding Members, by asking when people join the Telegram group, and through various other enquiries.
+We will collect information on referrals when we induct Founding Members, by asking when people join the Discord group, and through various other enquiries.
 
 #### Updates To These Rules
 

@@ -98,4 +98,4 @@ Read the non-exhaustive list of contributions and indicative point rewards [here
 
 ## Questions and Concerns
 
-You can ask questions about the Founding Member Program in our [official Telegram group](https://t.me/JoyStreamOfficial).
+You can ask questions about the Founding Member Program on our [official Discord server](https://discord.gg/DE9UN3YpRP).

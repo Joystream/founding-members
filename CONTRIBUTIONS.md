@@ -40,8 +40,8 @@ Community Communication:
 - webinar/workshop/meetup [indicative score: 1000->10000 per event]
   - if you would like to organise some sort of event to discuss the platform, this is strongly encouraged
   - funding may also be available from the Council for these kinds of initiatives
-- providing support in our Telegram channel [indicative score: 25->200 per issue]
-  - providing effective help to fellow participants and especially guiding new joiners through Telegram is a critically important way in which our community can ensure its continued growth and ensure new participants are not lost in the broad scope of the project
+- providing support in our [Discord server](https://discord.gg/DE9UN3YpRP) [indicative score: 25->200 per issue]
+  - providing effective help to fellow participants and especially guiding new joiners through Discord is a critically important way in which our community can ensure its continued growth and ensure new participants are not lost in the broad scope of the project
 - community proposals [indicative score: 500->5000 per proposal]
   - if you have a big idea about some project, bounty or other improvement for the community, you can share it with us on GitHub, the platform forum or using the proposals system
   - depending on whether Jsgenesis and the community likes your idea, it is likely to be eligible for leaderboard points (in addition to funding via the platform)
@@ -67,11 +67,11 @@ Enriching Testnet:
   - as part of the above, organizing content uploaded into distinct channels with specific themes or content types will increase rewards
 
 Coding [indicative score: 7500+]:
-- developing tools outside the scope of official bounties (such as wallets, faucet, Telegram Bots, block explorers etc.), optionally through requesting funding through a Council spending proposal represent very valuable contributions to the project and will be rewarded generously with Founding Member points.
+- developing tools outside the scope of official bounties (such as wallets, faucet, Discord/Telegram Bots, block explorers etc.), optionally through requesting funding through a Council spending proposal represent very valuable contributions to the project and will be rewarded generously with Founding Member points.
 - completing coding bounties will also be rewarded (see `Regular Contributions` below)
 
 Creative/Design [indicative score: 200+ per asset depending on quality]:
-- designing media assets including illustations, gifs, memes, infographics and telegram stickers to be used by Jsgenesis and other project participants will be rewarded generously with leaderboard points.
+- designing media assets including illustrations, gifs, memes and infographics to be used by Jsgenesis and other project participants will be rewarded generously with leaderboard points.
 
 Security:
 - identifying bugs [indicative score: low severity: 1000, medium severity: 5000, high severity: 25000+]
