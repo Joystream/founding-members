@@ -6,8 +6,8 @@ Member handle: `elite`
 **Scoring Period 1**
 1. Community Assistance
 Date: 01.02.2021
-Description: I assisted a user on telegram with how to become a validator.
-Link: some.telegram.link
+Description: I assisted a user on Discord with how to become a validator.
+Link: some.discord.link
 
 2. Solved bounty #3
 Date: 02.02.2021

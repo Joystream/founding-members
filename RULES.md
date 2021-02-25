@@ -17,7 +17,7 @@ The formal admission of new Founding Members to the program will take place at t
 
 #### Communication
 
-We will publish further public updates about the program through our regular communication channels, including our Official Telegram Channel, the Joystream Newsletter, the official GitHub repo for the program (github.com/joystream/founding-members) and on our website (www.joystream.org), and blog (blog.joystream.org).
+We will publish further public updates about the program through our regular communication channels, including our Official Telegram Channel, our Official Discord Server, the Joystream Newsletter, the official GitHub repo for the program (github.com/joystream/founding-members) and on our website (www.joystream.org), and blog (blog.joystream.org).
 
 Any private or sensitive information about your participation in the program will be communicated via Keybase or some other previously agreed contact method.
 
@@ -63,7 +63,7 @@ Any member can earn leaderboard points for referring other contributors to the p
 
 Currently, the `referral bonus` is 20%, meaning the referrer will earn 0.2 multiplied by the points earned by their referrals.
 
-We will collect information on referrals when we induct Founding Members, by asking when people join the Telegram group, and through various other enquiries.
+We will collect information on referrals when we induct Founding Members, by asking when people join the Discord group, and through various other enquiries.
 
 #### Updates To These Rules
 
