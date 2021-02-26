@@ -1,10 +1,12 @@
 ### Node Operators
 Running a node, that is not a Validator will also earn you points, but in order for us to do so, you have to "report" to the [Joystream Telemetry](https://telemetry.joystream.org/#/Joystream) in addition to the official [Polkadot Telemetry](https://telemetry.polkadot.io). This also requires you identify yourself.
 
-In order to that, name your node using the following "standard": `memberId-memberHandle`
-So if you are the member with id `133`, and handle `joystream` - `133-joystream`.
+In order to that, name your node using the format `memberId-memberHandle`.
+So if you are the member with id `133`, and handle `joystream` set it to `133-joystream`.
 
-At the time of writing, this can be done in one of two ways (note that we will update the chain spec file in the future, so this may not be necessary anymore).
+After your node is reporting to our telemetry, you will be able to get some information from it [here](https://telemetry.joystream.org/tracker/). Note that this page may see some changes going forward.
+
+At the time of writing, you can submit data to the telemetry server in one of two ways. Using a [flag](#flags), or manually updating the [chain-spec file](#chain-spec-file) (note that we will update the chain spec file in the future, so this may not be necessary anymore).
 
 #### Flags
 Add the following two flags when (re-)starting your node:

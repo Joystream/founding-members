@@ -16,6 +16,12 @@ There are two ways to submit your activities. The primary method is to use the f
 
 Note that in either case, make sure you include all your activities up until the end of the scoring round. When you have submitted for round `n`, you can no longer include any activity that **took place before the end of that round**. Hence, anything that was concluded in round `n-1` or `n`, will not be accepted. This rule is to prevent us awarding points for the same activity more than once.
 
+
+### Node Operators and Validators
+Many have been asking how to add their Validator or nodes to their [text files](#text-file) in order to get points. A previous example was somewhat poor in that regards, so this has been modified somewhat.
+
+More information on how to find out when your node or validator "uptime" can be found [here](/points/README.md).
+
 ### Text File
 Your activities must be written up in a .txt file structured like this:
 
@@ -35,7 +41,7 @@ Scoring Period <i>:
 1. Title
 Date:
 Description:
-Link:
+Link?:
 Signature?:
 2. Title
 Date:
