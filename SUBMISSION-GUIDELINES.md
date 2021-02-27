@@ -112,7 +112,9 @@ Using [this form](https://www.joystream.org/founding-members/form/) on the proje
 1. type/paste in the your membership `handle`
 2. upload the .json to your browser (local storage only, your file will not be exposed)
 3. type in your [keybase](https://keybase.io/) handle (if you don't have keybase, get an account so we can contact you there), and upload a .txt file of your activities
-4. sign with your membership key and submit (membership key is the address 48 characters long, with it you paid for membership)
+4. [sign with your membership key](https://testnet.joystream.org/#/toolbox/sign) and submit (membership key is the address 48 characters long, with it you paid for membership) 
+(You may need to enable the access for this page here: Settings -> General -> Interface operation mode (Change it to Full featured))
+
 
 What happens under the hood is the following:
 - your address is looked up on chain, and matched with your membership `handle` and `id`
@@ -160,4 +162,5 @@ $ shasum -a256 /path/to/example.txt
 ```
 Signing `2471b5c2bad70e523af98e436ae7ac8416bd4ca4ce4cd4e38d7a058f089fe1fe` with account `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6`, returns the signature `0x14cd1628f2ae8fa9ec549cfcbe899482439183896c2587022b663c59f0e1de3252a07b7f3153152956b9641354490f74a289e94adce38d0d81f0a52bcdc3c48c`.
 
-Which you can verify [here](https://testnet.joystream.org/#/toolbox/verify).
+Which you can verify [here](https://testnet.joystream.org/#/toolbox/verify).  
+(You may need to enable the access for this page here: Settings -> General -> Interface operation mode (Change it to Full featured))
