@@ -69,14 +69,14 @@ Some important considerations:
 
 ## Referral Program
 
-A key part of the program is the referral program. The purpose behind this is to incentivize an inducted or aspirational Founding Member to get more people onboarded. They way it works is:
+A key part of the scheme is the referral program. The motivation behind this is to incentivize inducted or prospective Founding Members to get more people participating in the project. It works as follows:
 1. Whenever someone [submits](/SUBMISSION-GUIDELINES.md) their scoring summary, they can list a referrer. This referrer must be identified by their `memberId` and `memberHandle`.
 2. Each time a referred user submits and gets credited a "direct score" of `n` points, the referrer gets credited a "referral score" of `0.2*n`
 3. The "total score" is simply the sum of "direct score" + "total score".
 
 Note that:
 - Although a referrer can have infinite referrals, a referred user can only have one referrer (and can not be changed).
-- The referred does not lose anything by doing this, it simply means an extra `0.2*n` is created for the referrer.
+- The person referred does not lose anything by doing this, it simply means an extra `0.2*n` is generated for the referrer.
 
 # Useful Resources
 ## Website and Leaderboards

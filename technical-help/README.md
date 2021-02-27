@@ -11,10 +11,10 @@ Table of Contents
 <!-- TOC END -->
 
 ## Overview
-This page will provide some technical help that be useful for gettin points and filling out your scoring summary. 
+This page will provide some technical help which should be useful for filling out your scoring summary and earning points. 
 
 ### Node Operators
-Running a node, that is not a Validator will also earn you points, but in order for us to do so, you have to "report" to the [Joystream Telemetry](https://telemetry.joystream.org/#/Joystream) in addition to the official [Polkadot Telemetry](https://telemetry.polkadot.io). This also requires you identify yourself.
+Running a node that is not a Validator will also earn you points, but in order for us to process such activity, you have to "report" to the [Joystream Telemetry](https://telemetry.joystream.org/#/Joystream) in addition to the official [Polkadot Telemetry](https://telemetry.polkadot.io). This also requires you identify yourself.
 
 In order to that, name your node using the format `memberId-memberHandle`.
 So if you are the member with id `133`, and handle `joystream` set it to `133-joystream`.
@@ -28,7 +28,7 @@ Add the following two flags when (re-)starting your node:
 ```
 --telemetry-url "wss://telemetry.joystream.org/submit 0" --telemetry-url "wss://telemetry.polkadot.io/submit/ 0"
 ```
-Note that the latter (polkadot) is already on by default, but by adding just the first one (joystream) will override the settings and disable polkadots telemetry.
+Note that the latter (Polkadot) is already on by default, but by adding just the first one (Joystream) will override the settings and disable Polkadot's telemetry.
 
 If you are running as a service using [this example](https://github.com/Joystream/helpdesk/tree/master/roles/validators#example-as-root), your "new" `joystream-node.service` file would be:
 
