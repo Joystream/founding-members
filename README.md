@@ -32,6 +32,7 @@ Table of Contents
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
 - [Overview](#overview)
   - [Scoring Periods](#scoring-periods)
+  - [Referral Program](#referral-program)
 - [Useful Resources](#useful-resources)
   - [Website and Leaderboards](#website-and-leaderboards)
   - [Program Rules](#program-rules)
@@ -65,6 +66,17 @@ Some important considerations:
 - Once you submitted for a scoring period `n`, you can no longer submit`*` for scoring period `n` or `n-m`. So make sure you've included _all_ of your activities up to that point.
 
 `*` Jsgenesis will try to be helpful in the early stages, but in general, this will make it very hard to grade, as we'd need to go through all previous submissions to verify there was no double entry.
+
+## Referral Program
+
+A key part of the program is the referral program. The purpose behind this is to incentivize an inducted or aspirational Founding Member to get more people onboarded. They way it works is:
+1. Whenever someone [submits](/SUBMISSION-GUIDELINES.md) their scoring summary, they can list a referrer. This referrer must be identified by their `memberId` and `memberHandle`.
+2. Each time a referred user submits and gets credited a "direct score" of `n` points, the referrer gets credited a "referral score" of `0.2*n`
+3. The "total score" is simply the sum of "direct score" + "total score".
+
+Note that:
+- Although a referrer can have infinite referrals, a referred user can only have one referrer (and can not be changed).
+- The referred does not lose anything by doing this, it simply means an extra `0.2*n` is created for the referrer.
 
 # Useful Resources
 ## Website and Leaderboards
