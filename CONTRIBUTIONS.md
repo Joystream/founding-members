@@ -14,10 +14,17 @@ As we learn more about the evolving ways in which our community can contribute, 
 
 Network Integrity:
 - running a validator [indicative score: 50 per day]
-  - since running even a validator node contributes to the security of the platform and allows you to hook yourself up to the heart of our network, we want to recognize and reward this common and relatively straightforward first step towards further engagement in the project.
+  - since running a validator node contributes to the security of the platform and allows you to hook yourself up to the heart of our network, we want to recognize and reward this common and relatively straightforward first step towards further engagement in the project.
   - because there is little additional benefit in terms of learning about the project from setting up more than one node, we are likely to offer smaller rewards for further nodes you set up, though these will still qualify for rewards.
   - you should also be aware that validators can earn further formal rewards on our current testnet
-
+  - note that you can only get leaderboard points for a single validator, as these are also rewarded in testnet tokens
+- running a node [indicative score: up to 50 per day]
+  - running a node (that is not validating) can have almost the same value as running a validator, is cheaper, easier, and comes with less risk:
+    - you do not have to to run your node with `--pruning="archive"` (less storage)
+    - you don't need as good hardware, or connection (to other vals), to quickly validate and produce blocks
+    - you don't need to stake, thus no risk getting slashed if your node goes down
+    - on the downside, you do not produce blocks for the network, and don't earn block rewards
+  - see more information [here](/points/README.md#node-operators)
 
 Community Communication:
 - discussing the project on twitter/discord/telegram/reddit [indicative score: 10 -> 100]
@@ -33,8 +40,8 @@ Community Communication:
 - webinar/workshop/meetup [indicative score: 1000->10000 per event]
   - if you would like to organise some sort of event to discuss the platform, this is strongly encouraged
   - funding may also be available from the Council for these kinds of initiatives
-- providing support in our Telegram channel [indicative score: 25->200 per issue]
-  - providing effective help to fellow participants and especially guiding new joiners through Telegram is a critically important way in which our community can ensure its continued growth and ensure new participants are not lost in the broad scope of the project
+- providing support in our [Discord server](https://discord.gg/DE9UN3YpRP) [indicative score: 25->200 per issue]
+  - providing effective help to fellow participants and especially guiding new joiners through Discord is a critically important way in which our community can ensure its continued growth and ensure new participants are not lost in the broad scope of the project
 - community proposals [indicative score: 500->5000 per proposal]
   - if you have a big idea about some project, bounty or other improvement for the community, you can share it with us on GitHub, the platform forum or using the proposals system
   - depending on whether Jsgenesis and the community likes your idea, it is likely to be eligible for leaderboard points (in addition to funding via the platform)
@@ -60,11 +67,11 @@ Enriching Testnet:
   - as part of the above, organizing content uploaded into distinct channels with specific themes or content types will increase rewards
 
 Coding [indicative score: 7500+]:
-- developing tools outside the scope of official bounties (such as wallets, faucet, Telegram Bots, block explorers etc.), optionally through requesting funding through a Council spending proposal represent very valuable contributions to the project and will be rewarded generously with Founding Member points.
+- developing tools outside the scope of official bounties (such as wallets, faucet, Discord/Telegram Bots, block explorers etc.), optionally through requesting funding through a Council spending proposal represent very valuable contributions to the project and will be rewarded generously with Founding Member points.
 - completing coding bounties will also be rewarded (see `Regular Contributions` below)
 
 Creative/Design [indicative score: 200+ per asset depending on quality]:
-- designing media assets including illustations, gifs, memes, infographics and telegram stickers to be used by Jsgenesis and other project participants will be rewarded generously with leaderboard points.
+- designing media assets including illustrations, gifs, memes and infographics to be used by Jsgenesis and other project participants will be rewarded generously with leaderboard points.
 
 Security:
 - identifying bugs [indicative score: low severity: 1000, medium severity: 5000, high severity: 25000+]
