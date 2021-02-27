@@ -20,7 +20,7 @@ Note that in either case, make sure you include all your activities up until the
 ### Node Operators and Validators
 Many have been asking how to add their Validator or nodes to their [text files](#text-file) in order to get points. A previous example was somewhat poor in that regards, so this has been modified somewhat.
 
-More information on how to find out when your node or validator "uptime" can be found [here](/points/README.md).
+More information on how to find out your node or validator "uptime" can be found [here](/technical-help/README.md).
 
 ### Text File
 Your activities must be written up in a .txt file structured like this:

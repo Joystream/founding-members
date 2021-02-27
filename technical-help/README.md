@@ -1,3 +1,18 @@
+Technical Help
+===
+
+Table of Contents
+===
+
+<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+  - [Overview](#overview)
+    - [Node Operators](#node-operators)
+    - [Validators](#validators)
+<!-- TOC END -->
+
+## Overview
+This page will provide some technical help that be useful for gettin points and filling out your scoring summary. 
+
 ### Node Operators
 Running a node, that is not a Validator will also earn you points, but in order for us to do so, you have to "report" to the [Joystream Telemetry](https://telemetry.joystream.org/#/Joystream) in addition to the official [Polkadot Telemetry](https://telemetry.polkadot.io). This also requires you identify yourself.
 
@@ -76,3 +91,9 @@ This array of `telemetryEndpoints` must be changed to:
   ],
 ```
 After you have saved, you can start your node again.
+
+
+### Validators
+There are a couple of ways in which a Validator can find out when they started validating for themselves, but that require using the API. To make it a little easier, we will keep updated logs of all validators in each era and uploaded the data [here](/technical-help/validators.js). We will update this regularly, and you can find the blocks included at the top.
+
+Open the file, and search for your `stash` key. Below it, you can find all the eras you were an _active_ Validator in. (The `totalEraPoints` denotes your cumulative `eraPoints`, meaning divide by 20 to get all the blocks you've ever produced!) Scroll to the bottom to find an overview of the eras, which includes the blockheight and timestamp of which it started. Now you should have all the information needed!
