@@ -1,7 +1,5 @@
 # List of non-bounty useful contributions
 
-[CONTRIBUTIONS.MD]
-
 ## Summary
 
 The scoring system for our leaderboard will be very dynamic and reward a wide range of possible contributions to the success of the project.
@@ -12,7 +10,7 @@ As we learn more about the evolving ways in which our community can contribute, 
 
 ### Example Tasks
 
-Network Integrity:
+#### Network Integrity
 - running a validator [indicative score: 50 per day]
   - since running a validator node contributes to the security of the platform and allows you to hook yourself up to the heart of our network, we want to recognize and reward this common and relatively straightforward first step towards further engagement in the project.
   - because there is little additional benefit in terms of learning about the project from setting up more than one node, we are likely to offer smaller rewards for further nodes you set up, though these will still qualify for rewards.
@@ -26,7 +24,7 @@ Network Integrity:
     - on the downside, you do not produce blocks for the network, and don't earn block rewards
   - see more information [here](/points/README.md#node-operators)
 
-Community Communication:
+#### Community Communication
 - discussing the project on twitter/discord/telegram/reddit [indicative score: 10 -> 100]
   - sharing information and opinions about our project with others through social channels is a key way in which we can help drive more people to the platform
   - participating in meaningful discourse about Joystream will be rewarded, while remotely spammy activity will be disqualified from receiving points
@@ -53,7 +51,7 @@ Accessibility:
   - note that making original content or tutorials in other languages about the project will also qualify for rewards, though in some cases will warrant less than the equivalent contribution in English
 -->
 
-Enriching Testnet:
+#### Enriching Testnet
 - improving content metadata and reporting issues to content curators [indicative score: 5->10 per correction]
   - it's important that video content displayed on our testnet looks good, and if there are any issues with incorrect metadata, license, playback or associated media these should be reported to the Content Curators
 - original content uploads [indicative score: 500->3000 per upload, depending on quality]
@@ -66,25 +64,27 @@ Enriching Testnet:
 - creating channels [indicative score: variable]
   - as part of the above, organizing content uploaded into distinct channels with specific themes or content types will increase rewards
 
-Coding [indicative score: 7500+]:
+#### Coding
+- indicative score: 7500+
 - developing tools outside the scope of official bounties (such as wallets, faucet, Discord/Telegram Bots, block explorers etc.), optionally through requesting funding through a Council spending proposal represent very valuable contributions to the project and will be rewarded generously with Founding Member points.
 - completing coding bounties will also be rewarded (see `Regular Contributions` below)
 
 Creative/Design [indicative score: 200+ per asset depending on quality]:
 - designing media assets including illustrations, gifs, memes and infographics to be used by Jsgenesis and other project participants will be rewarded generously with leaderboard points.
 
-Security:
+#### Security
 - identifying bugs [indicative score: low severity: 1000, medium severity: 5000, high severity: 25000+]
   - it is of critical importance that security issues in Joystream are identified and patched
   - participants who draw attention to or write detailed vulnerability reports about issues with our testnet will therefore be rewarded.
 
-Testing:
+#### Testing
 - feedback/suggestions on joystream products [indicative score: 500]
   - users who provide feedback on Joystream applications and offer suggestions for improvements (either through GitHub issues or on the platform forum) will receive leaderboard points
 - detailed testing of joystream products [indicative score: 2500+ depending on scope]
   - those who want to conduct formal QA testing are likely to be rewarded to an even greater degree than the above
 
-Regular Contributions [indicative score: variable!]:
+#### Regular Contributions
+- indicative score: variable!
 - Bounties
   - The completion of official bounties can be included in your regular Founding Member summary and these will usually result in points being awarded. The number of leaderboard points will be proportional to the reward value of the bounty.
 - KPIs
@@ -92,6 +92,6 @@ Regular Contributions [indicative score: variable!]:
 - Roles
   - Ongoing participation in platform roles will also qualify for leaderboard points.
 
-Referrals:
+#### Referrals
 - Referring other people to the project who go on to submit leaderboard summaries will also qualify for rewards (they don't have to ultimately become Founding Members, just earn points).
   - At the moment the referral bonus is 20%, meaning you will earn 0.2x the points earned by your referrals.
