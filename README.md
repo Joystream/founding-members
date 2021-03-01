@@ -91,9 +91,9 @@ The full rules of the Founding Member Program can be found [here](/RULES.md).
 
 ### Current Period
 
-Currently there are two scoring periods running.
-- [Scoring Period #0](/scoring-periods/0.md), which is meant to allow existing community members to get their "just rewards" for actions performed previously. This means all your activities on the current chain (launched 21st of September 2020) and all "offchain" activities (since the genesis of the project), until the start of Scoring Period #1 will qualify.
-- [Scoring Period #1](/scoring-periods/1.md) which started on the 15th of February, and ends on the 28th of February.
+The current [Scoring Period #2](/scoring-periods/2.md) started on the 1st of March, and ends on the 14th of March.
+
+Note that we are still accepting summaries from [Scoring Period #0](/scoring-periods/0.md) and [Scoring Period #1](/scoring-periods/1.md).
 
 ## Submission Guidance
 
