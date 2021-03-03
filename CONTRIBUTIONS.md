@@ -22,7 +22,7 @@ As we learn more about the evolving ways in which our community can contribute, 
     - you don't need as good hardware, or connection (to other vals), to quickly validate and produce blocks
     - you don't need to stake, thus no risk getting slashed if your node goes down
     - on the downside, you do not produce blocks for the network, and don't earn block rewards
-  - see more information [here](/points/README.md#node-operators)
+  - see more information [here](https://github.com/Joystream/founding-members/blob/e6e233e9cf1f3e1718f319b48d6b30eeab219398/technical-help/README.md#node-operators)
 
 #### Community Communication
 - discussing the project on twitter/discord/telegram/reddit [indicative score: 10 -> 100]
