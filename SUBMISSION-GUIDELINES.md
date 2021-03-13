@@ -163,4 +163,4 @@ $ shasum -a256 /path/to/example.txt
 Signing `2471b5c2bad70e523af98e436ae7ac8416bd4ca4ce4cd4e38d7a058f089fe1fe` with account `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6`, returns the signature `0x14cd1628f2ae8fa9ec549cfcbe899482439183896c2587022b663c59f0e1de3252a07b7f3153152956b9641354490f74a289e94adce38d0d81f0a52bcdc3c48c`.
 
 Which you can verify [here](https://testnet.joystream.org/#/toolbox/verify).  
-(You may need to enable the access for this page here: Settings -> General -> Interface operation mode (Change it to Full featured))
+_Note: You may need to enable access to the Toolbox page here: `Settings -> General -> Interface operation mode` (Change it to Fully featured)_```
