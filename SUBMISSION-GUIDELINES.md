@@ -113,7 +113,7 @@ Using [this form](https://www.joystream.org/founding-members/form/) on the proje
 2. upload the .json to your browser (local storage only, your file will not be exposed)
 3. type in your [keybase](https://keybase.io/) handle (if you don't have keybase, get an account so we can contact you there), and upload a .txt file of your activities
 4. [sign with your membership key](https://testnet.joystream.org/#/toolbox/sign) and submit (membership key is the address 48 characters long, with it you paid for membership) 
-(You may need to enable the access for this page here: Settings -> General -> Interface operation mode (Change it to Full featured))
+_Note: You may need to enable access to the Toolbox page here: `Settings -> General -> Interface operation mode` (Change it to Fully featured)_
 
 
 What happens under the hood is the following:
