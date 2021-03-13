@@ -93,7 +93,7 @@ Link: some.github.link
 1. Validator
 Date: 05.02.2021-09.02.2021
 Description: I was a validator from block/era #1337/2 to #11337/10, with stash account `5myValidatorStashAccount`. (I was active in all the eras in this range, and found a total of 1000 blocks.)
-I have signed the message: "I am member id/handle `133/joystream` with a Validator Stash Account: `5myValidatorStashAccount` with my membership controller (root) account: `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6`
+I have signed the message: "I am member id/handle `133/joystream` with validator stash account: `5myValidatorStashAccount`" with my membership controller (root) account: `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6`
 Signature: `0xbef075b361b6c36c4abbeea47b40b1cc3652c3d6ea7917a83d6ee8231fd1e12286c3d23f475bd98cb001fc182b9a21674cc01b7dbedbb2f59216bb0b6c35138b`
 
 2. Content Creation
