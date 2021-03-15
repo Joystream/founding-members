@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3>A repo to store information about the Founding Member program.<h3>
+  <h3>A repo to organize information about the Founding Member program.<h3>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
       Website
     </a>
     <span> | </span>
-    <a href="/scoring-periods/1.md">
+    <a href="/scoring-periods/3.md">
       Period Annoucement
     </a>
     <span> | </span>
@@ -105,7 +105,7 @@ You can find out how to do either of these and the accepted formats for submissi
 
 We have also added some guidance to highlight what we consider to be some of the highest value contributions towards the growth and success of the project.
 
-Read the non-exhaustive list of contributions and indicative point rewards [here](/CONTRIBUTIONS.md).
+Read the non-exhaustive list of potential contributions [here](/CONTRIBUTIONS.md).
 
 
 ## Questions and Concerns
