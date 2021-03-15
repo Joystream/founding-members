@@ -91,9 +91,9 @@ The full rules of the Founding Member Program can be found [here](/RULES.md).
 
 ### Current Period
 
-The current [Scoring Period #2](/scoring-periods/2.md) started on the 1st of March, and ends on the 14th of March.
+The current [Scoring Period #3](/scoring-periods/3.md) started on the 15th of March, and ends on the 28th of March.
 
-Note that we are still accepting summaries from [Scoring Period #0](/scoring-periods/0.md) and [Scoring Period #1](/scoring-periods/1.md).
+Note that we are still accepting summaries from Scoring Periods [#0](/scoring-periods/0.md), [#1](/scoring-periods/1.md) and [#2](/scoring-periods/2.md).
 
 ## Submission Guidance
 
