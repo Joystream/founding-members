@@ -17,7 +17,7 @@ The formal admission of new Founding Members to the program will take place at t
 
 #### Communication
 
-We will publish further public updates about the program through our regular communication channels, including our Official Telegram Channel, the Joystream Newsletter, the official GitHub repo for the program (github.com/joystream/founding-members) and on our website (www.joystream.org), and blog (blog.joystream.org).
+We will publish further public updates about the program through our regular communication channels, including our Official Telegram Channel, our Official Discord Server, the Joystream Newsletter, the official GitHub repo for the program (github.com/joystream/founding-members) and on our website (www.joystream.org), and blog (blog.joystream.org).
 
 Any private or sensitive information about your participation in the program will be communicated via Keybase or some other previously agreed contact method.
 
