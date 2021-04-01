@@ -81,7 +81,6 @@ Accessibility:
   - as part of the above, organizing content uploaded into distinct channels with specific themes or content types will increase rewards
 
 #### Coding
-- indicative score: 7500+
 - developing tools outside the scope of official bounties (such as wallets, faucet, Discord/Telegram Bots, block explorers etc.), optionally through requesting funding through a Council spending proposal represent very valuable contributions to the project and will be rewarded generously with Founding Member points.
 - completing coding bounties will also be rewarded (see `Testnet Contributions` below)
 
