@@ -12,6 +12,8 @@
 |`@lopegor`           | 1369     |23.04.21|<img width="40" src="/avatars/primary-avatar/39.png">     |39  | 8   |
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
 
+<br>
+
 ### Avatars
 <img width="200" src="/avatars/selected-avatars/31-tomato.png"><img width="200" src="/avatars/selected-avatars/6-nexusfallout.png"><img width="200" src="/avatars/selected-avatars/19-enjoythefood.png"><br><img width="200" src="/avatars/selected-avatars/3-freakstatic.png"><img width="200" src="/avatars/selected-avatars/8-l1dev.png"><img width="200" src="/avatars/selected-avatars/2-cheomsk.png"><img width="200" src="/avatars/selected-avatars/39-lopegor.png">
 
