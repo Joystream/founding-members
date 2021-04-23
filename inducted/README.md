@@ -13,7 +13,9 @@
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
 
 ### Avatars
-<img width="200" src="/avatars/selected-avatars/31-tomato.png"><img width="200" src="/avatars/selected-avatars/6-nexusfallout.png"><img width="200" src="/avatars/selected-avatars/19-enjoythefood.png"><img width="200" src="/avatars/selected-avatars/3-freakstatic.png"><img width="200" src="/avatars/selected-avatars/8-l1dev.png"><img width="200" src="/avatars/selected-avatars/2-cheomsk.png"><img width="200" src="/avatars/selected-avatars/39-lopegor.png">
+<img width="200" src="/avatars/selected-avatars/31-tomato.png"><img width="200" src="/avatars/selected-avatars/6-nexusfallout.png"><img width="200" src="/avatars/selected-avatars/19-enjoythefood.png"><br><img width="200" src="/avatars/selected-avatars/3-freakstatic.png"><img width="200" src="/avatars/selected-avatars/8-l1dev.png"><img width="200" src="/avatars/selected-avatars/2-cheomsk.png"><img width="200" src="/avatars/selected-avatars/39-lopegor.png">
+
+<br>
 
 ### Note on "Initial Founding Members"
 _Although all existing community members were given the opportunity to claim points through the summary submission system for their contributions which were made before this program was launched, we agreed that for some of our most active and engaged participants, it was neither practical nor fair to have them formally account for all of their many contributions to the project which took place over months of participation._
