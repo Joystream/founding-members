@@ -91,7 +91,7 @@ The full rules of the Founding Member Program can be found [here](/RULES.md).
 
 ### Current Period
 
-The current [Scoring Period #5](/scoring-periods/6.md) started on the 26th of April, and ends on the 9th of May.
+The current [Scoring Period #6](/scoring-periods/6.md) started on the 26th of April, and ends on the 9th of May.
 
 <!--
 FIXME
