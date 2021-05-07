@@ -103,7 +103,7 @@ Link: link.to.forum.post
 
 ### Best Practices
 - Keep it brief, but include all relevant information.
-- In cases when your activity took place of in the form of a pull request, (eg. a bounty, bug fix, etc.), use the date of which the PR was merged or closed.
+- In cases when your activity took place of in the form of a pull request, (e.g., a bounty, bug fix, etc.), use the date of which the PR was merged or closed.
 - If you reported a bugfix, or made an issue for other purposes, use the date on which the issue was opened.
 - If you've held a role, the date range should be the dates you are requesting points for. However, you are also encouraged to specify when you got the role.
 
@@ -111,7 +111,7 @@ Link: link.to.forum.post
 ### Website Form
 
 Using [this form](https://www.joystream.org/founding-members/form/) on the project website, there are four steps:
-1. type/paste in the your membership `handle`
+1. type/paste in your membership `handle`
 2. upload the .json to your browser (local storage only, your file will not be exposed)
 3. type in your [keybase](https://keybase.io/) handle (if you don't have keybase, get an account so we can contact you there), and upload a .txt file of your activities
 4. [sign with your membership key](https://testnet.joystream.org/#/toolbox/sign) and submit (membership key is the address 48 characters long, with it you paid for membership) 
