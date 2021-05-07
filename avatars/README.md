@@ -4,7 +4,7 @@
 
 As part of the process of being formally admitted and inducted into the Founding Member program, you will be asked to select a custom illustrated avatar for the duration of your membership of the program.
 
-You can use your avatar anywhere you would like, though you are particuarly encouraged to use the avatar on Joystream products, such as in Pioneer and in our media consumption application.
+You can use your avatar anywhere you would like, though you are particularly encouraged to use the avatar on Joystream products, such as in Pioneer and in our media consumption application.
 
 Your avatar is unique to you, and is yours forever. You are free to modify or edit it as much as you like to suit the context you want to use it in.
 You will even be able to use it on the Joystream platform on mainnet.
