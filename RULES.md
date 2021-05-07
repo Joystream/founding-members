@@ -49,9 +49,9 @@ Tokens can only be allocated to addresses under your control. You may be require
 
 #### Activity Reporting
 
-You cannot claim for the same activity on more than one occasion (i.e. across more than one summary) in order to be awarded the same points twice. If this does occur it is liable to be deemed bad faith and may result in your eviction from the program.
+You cannot claim for the same activity on more than one occasion (i.e., across more than one summary) in order to be awarded the same points twice. If this does occur it is liable to be deemed bad faith and may result in your eviction from the program.
 
-All activity should be reported within two scoring periods of taking place. Contributions recorded outside of this window may not qualify for rewards. For this reason it is very important to submit regular summaries.
+All activity should be reported within two scoring periods of taking place. Contributions recorded outside of this window may not qualify for rewards. For this reason, it is very important to submit regular summaries.
 
 Once you have submitted your activity up to and including a certain date, you can no longer submit activity from before this date.
 
@@ -71,4 +71,4 @@ Jsgenesis reserves the right to update the rules of the program at any time, for
 
 If serious flaws in the structure of the program are discovered, Jsgenesis reserves the right to announce that after a future scoring period, the "season" is concluded, and a new scheme will apply to following seasons, thus resetting "scores". In such an event, a "slice" of the pool, set by Jsgenesis discretion, will be allocated in accordance with existing rules. The remainder will be transferred to new "seasons".
 
-Jsgenesis reserves the right not to honour any aspect of this agreement due to legal considerations.
+Jsgenesis reserves the right not to honor any aspect of this agreement due to legal considerations.
