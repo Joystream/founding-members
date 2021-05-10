@@ -30,6 +30,7 @@ Table of Contents
 ==
 
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Scoring Periods](#scoring-periods)
   - [Referral Program](#referral-program)
@@ -91,7 +92,7 @@ The full rules of the Founding Member Program can be found [here](/RULES.md).
 
 ### Current Period
 
-The current [Scoring Period #5](/scoring-periods/6.md) started on the 26th of April, and ends on the 9th of May.
+The current [Scoring Period #7](/scoring-periods/7.md) started on the 10th of May, and ends on the 24th of May.
 
 <!--
 FIXME
