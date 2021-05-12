@@ -6,13 +6,13 @@ The scoring system for our community leaderboard is very dynamic and rewards a w
 
 For guidance purposes, we had initially proposed some suggested point scores for certain types of activity in this document, but upon reflection, we feel that this is not necessarily motivating the most effective or highest quality participation possible.
 
-From now on, we would like to make it very clear that scores are highly dependant on a number of factors, just some of which are explained below:
+From now on, we would like to make it very clear that scores are highly dependent on a number of factors, just some of which are explained below:
 
-- `Relative utility of contributions` - You should always think about the relative value of your activity compared to contributions made by other participants (e.g. if there are already hundreds of active validator nodes, the value to the project of you deciding to run a node is significantly reduced). Or, for example, if thousands of videos are being uploaded per week, one more upload is not worth very much.
+- `Relative utility of contributions` - You should always think about the relative value of your activity compared to contributions made by other participants (e.g., if there are already hundreds of active validator nodes, the value to the project of you deciding to run a node is significantly reduced). Or, for example, if thousands of videos are being uploaded per week, one more upload is not worth very much.
 - `Creativity and uniqueness` - Unique and creative contributions will always be rewarded generously, since we are very interested to see what our community members can come up with. On mainnet, it will be essential to have a community comprised of open-minded people who are willing to think creatively about how to solve problems which emerge.
-- `Technical complexity` - In all cases, contributions which require some technical knowledge or coding will be very generously rewarded, since we need these kind of people to deploy their talents as the platform evolves. 
-- `Effort required` - Clearly, running a Storage Provider or serving as a Council Member requires more effort than tweeting about the project or writing a forum post. In a similar way, there is a great variation in quality between different types of contribution (e.g. an active Council Member who enthusiastically discusses proposals vs. one who is elected and never votes). The effort you invest into your contributions will have a significant bearing on the points awarded. Even thoughtful tweets or memes will get many more points than spammy, low-quality ones.
-- `Good faith` - If it is obvious you are exaggerating or making false claims, you will be heavily penalized and in serious cases disqualified from the program.
+- `Technical complexity` - In all cases, contributions which require some technical knowledge or coding will be very generously rewarded, since we need these kinds of people to deploy their talents as the platform evolves. 
+- `Effort required` - Clearly, running a Storage Provider or serving as a Council Member requires more effort than tweeting about the project or writing a forum post. In a similar way, there is a great variation in quality between different types of contribution (e.g., an active Council Member who enthusiastically discusses proposals vs. one who is elected and never votes). The effort you invest into your contributions will have a significant bearing on the points awarded. Even thoughtful tweets or memes will get many more points than spammy, low-quality ones.
+- `Good faith` - If it is obvious, you are exaggerating or making false claims, you will be heavily penalized and in serious cases disqualified from the program.
 - `Evidence provided` - You may have made some incredible contributions during a scoring period, but if you cannot effectively provide proof of this, you may not get the points you deserve. Jsgenesis reviewers receive hundreds of summaries every round, so make it easy for them to understand why you are great!
 - `Tangible impact` - If it is very obvious that your contributions are making a big difference for users of the platform, you will be rewarded commensurately.
 - `On-chain` - Contributions on-chain will generally be more valuable than those made off-chain. For example, a forum post is much preferred to a tweet. And uploading a tutorial video to the platform is much better than putting it on YouTube.
@@ -30,7 +30,7 @@ Below we have listed some exemplar contributions. As we learn more about the evo
   - note that you can only get leaderboard points for a single validator, as these are also rewarded in testnet tokens
 - running a node
   - running a node (that is not validating) can have almost the same value as running a validator, is cheaper, easier, and comes with less risk:
-    - you do not have to to run your node with `--pruning="archive"` (less storage)
+    - you do not have to run your node with `--pruning="archive"` (less storage)
     - you don't need as good hardware, or connection (to other vals), to quickly validate and produce blocks
     - you don't need to stake, thus no risk getting slashed if your node goes down
     - on the downside, you do not produce blocks for the network, and don't earn block rewards
@@ -42,17 +42,17 @@ Below we have listed some exemplar contributions. As we learn more about the evo
   - sharing information and opinions about our project with others through social channels is a key way in which we can help drive more people to the platform
   - participating in meaningful discourse about Joystream will be rewarded, while remotely spammy activity will be disqualified from receiving points
   - quality beats quantity to a very substantial degree here!
-- managing localised groups/communities 
-  - we are keen to make Joystream open to people from all over the world, and realise that Joystream enthusiasts may not always be native English speakers.
-  - the creation of specific language Telegram or other chat groups about Joystream where members in a specific locality can discuss the project is certainly useful, and if done succesfully may be rewarded with leaderboard points.
+- managing localized groups/communities 
+  - we are keen to make Joystream open to people from all over the world, and realize that Joystream enthusiasts may not always be native English speakers.
+  - the creation of specific language Telegram or other chat groups about Joystream where members in a specific locality can discuss the project is certainly useful, and if done successfully may be rewarded with leaderboard points.
   - where there is already an established group for a given region or language, creating another one is unlikely to earn you any points
-- writing blog posts about joystream
+- writing blog posts about Joystream
   - we are keen for community members to explain aspects of the platform to new members, and blog posts on Medium or your personal blog etc. are a great way to share information, tutorials or your thoughts about the project.
   - the points received for blog posts will vary enormously: unoriginal translations of our content are likely to earn very few points while original and thoughtful posts written in English may earn a substantial number of points
 - making interesting posts on the platform forum
   - the on-chain platform forum aims to be the hub of communication between our community members, so enriching this community space with high-quality posts is strongly encouraged and will receive generous rewards
 - webinar/workshop/meetup
-  - if you would like to organise some sort of event to discuss the platform, this is strongly encouraged
+  - if you would like to organize some sort of event to discuss the platform, this is strongly encouraged
   - funding may also be available from the Council for these kinds of initiatives
 - providing support in our Discord server
   - providing effective help to fellow participants and especially guiding new joiners through Discord is a critically important way in which our community can ensure its continued growth and ensure new participants are not lost in the broad scope of the project
@@ -76,7 +76,7 @@ Accessibility:
   - tutorial videos are an excellent medium for helping people to get to grips with participating on the platform while also augmenting our growing library of content.
 - uploading unique content to the platform
   - content uploaded doesn't all have to be strictly original, and public domain and creative commons-licensed uploads will also be eligible rewards if they are unique or interesting
-  - duplicate and low quality uploads will not qualify for rewards and content which is improperly licensed or breaks our Terms of Service may result in further penalties
+  - duplicate and low-quality uploads will not qualify for rewards and content which is improperly licensed or breaks our Terms of Service may result in further penalties
 - creating channels
   - as part of the above, organizing content uploaded into distinct channels with specific themes or content types will increase rewards
 
@@ -93,9 +93,9 @@ Creative/Design:
   - participants who draw attention to or write detailed vulnerability reports about issues with our testnet will therefore be rewarded.
 
 #### Testing
-- feedback/suggestions on joystream products
+- feedback/suggestions on Joystream products
   - users who provide feedback on Joystream applications and offer suggestions for improvements (either through GitHub issues or on the platform forum) will receive leaderboard points
-- detailed testing of joystream products
+- detailed testing of Joystream products
   - those who want to conduct formal QA testing are likely to be rewarded to an even greater degree than the above
 
 #### Testnet Contributions

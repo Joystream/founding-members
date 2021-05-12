@@ -16,7 +16,7 @@
     </a>
     <span> | </span>
     <a href="/scoring-periods/7.md">
-      Period Annoucement
+      Period Announcement
     </a>
     <span> | </span>
     <a href="/inducted/README.md">
@@ -60,11 +60,11 @@ A scoring period is a term defined by a start and end date. Note down all of you
 
 Within a week of the end of a scoring period, Jsgenesis will review and "grade" all [submissions](#submission-guidance) in the inbox, and update the website with the most recent scores. If anyone reaches the internal threshold to become a Founding Member they will be inducted. You can read about the previous and current scoring periods below.
 
-We are targeting two week long scoring periods at the moment, but this may change in the future.
+We are targeting two-week long scoring periods at the moment, but this may change in the future.
 
 Some important considerations:
 - Although you can submit for multiple scoring periods in the same form, we encourage you send them as soon as possible after the end of each, to reduce the chance of you forgetting something, and avoid large backlogs.
-- Once you submitted for a scoring period `n`, you can no longer submit`*` for scoring period `n` or `n-m`. So make sure you've included _all_ of your activities up to that point.
+- Once you submitted for a scoring period `n`, you can no longer submit`*` for scoring period `n` or `n-m`. So, make sure you've included _all_ of your activities up to that point.
 
 `*` Jsgenesis will try to be helpful in the early stages, but in general, this will make it very hard to grade, as we'd need to go through all previous submissions to verify there was no double entry.
 
@@ -76,7 +76,7 @@ A key part of the scheme is the referral program. The motivation behind this is 
 3. The "total score" is simply the sum of "direct score" + "total score".
 
 Note that:
-- Although a referrer can have infinite referrals, a referred user can only have one referrer (and can not be changed).
+- Although a referrer can have infinite referrals, a referred user can only have one referrer (and cannot be changed).
 - The person referred does not lose anything by doing this, it simply means an extra `0.2*n` is generated for the referrer.
 
 # Useful Resources
