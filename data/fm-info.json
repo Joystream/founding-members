@@ -3,9 +3,9 @@
     {
         "currentScoringPeriod":
         {
-            "scoringPeriodId": 7,
-            "started": "2021-05-10T09:00:00+02:00",
-            "ends": "2021-05-24T08:59:59+02:00",
+            "scoringPeriodId": 8,
+            "started": "2021-05-24T09:00:00+02:00",
+            "ends": "2021-06-07T08:59:59+02:00",
             "referralRate": 0.2
         },
         "lastPeriod":
