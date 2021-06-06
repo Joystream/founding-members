@@ -9,13 +9,14 @@
 |`@freakstatic`       | 306     |IFM/12.02.21|<img width="40" src="/avatars/primary-avatar/3.png">  |3   | 5   |
 |`@l1dev`             | 515     |IFM/12.02.21|<img width="40" src="/avatars/primary-avatar/8.png">  |8   | 6   |
 |`@cheomsk`           | 552     |23.04.21|<img width="40" src="/avatars/primary-avatar/2.png">      |2   | 7   |
-|`@lopegor`           | 1369     |23.04.21|<img width="40" src="/avatars/primary-avatar/39.png">     |39  | 8   |
+|`@lopegor`           | 1369     |23.04.21|<img width="40" src="/avatars/primary-avatar/39.png">    |39  | 8   |
+|`@andybut`           | 1316     |07.06.21|<img width="40" src="/avatars/primary-avatar/1.png">     |1   | 9   |
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
 
 <br>
 
 ### Avatars
-<img width="200" src="/avatars/selected-avatars/31-tomato.png"><img width="200" src="/avatars/selected-avatars/6-nexusfallout.png"><img width="200" src="/avatars/selected-avatars/19-enjoythefood.png"><br><img width="200" src="/avatars/selected-avatars/3-freakstatic.png"><img width="200" src="/avatars/selected-avatars/8-l1dev.png"><img width="200" src="/avatars/selected-avatars/2-cheomsk.png"><img width="200" src="/avatars/selected-avatars/39-lopegor.png">
+<img width="200" src="/avatars/selected-avatars/31-tomato.png"><img width="200" src="/avatars/selected-avatars/6-nexusfallout.png"><img width="200" src="/avatars/selected-avatars/19-enjoythefood.png"><img width="200" src="/avatars/selected-avatars/3-freakstatic.png"><br><img width="200" src="/avatars/selected-avatars/8-l1dev.png"><img width="200" src="/avatars/selected-avatars/2-cheomsk.png"><img width="200" src="/avatars/selected-avatars/39-lopegor.png"><img width="200" src="/avatars/selected-avatars/1-andybut.png">
 
 <br>
 
