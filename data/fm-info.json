@@ -609,7 +609,7 @@
             {"memberHandle":"sou1shock","memberId":1995,"inducted":null,"directScores":[0,0,0,0,75,0,0,0],"totalDirectScore":75,"referralScores":[],"totalReferralScore":0,"totalScore":75,"referrer":null},
             {"memberHandle":"pablick","memberId":1992,"inducted":null,"directScores":[0,0,0,0,75,0,0,0],"totalDirectScore":75,"referralScores":[],"totalReferralScore":0,"totalScore":75,"referrer":{"memberHandle":"rick4","memberId":1412,"inducted":null,"referralScore":[0,0,0,0,15,0,0,0]}},
             {"memberHandle":"grkos","memberId":2003,"inducted":null,"directScores":[0,0,0,0,75,0,0,0],"totalDirectScore":75,"referralScores":[],"totalReferralScore":0,"totalScore":75,"referrer":{"memberHandle":"oxess","memberId":710,"inducted":null,"referralScore":[0,0,0,0,15,0,0,0]}},
-            {"memberHandle":"bwhm0","memberId":1,"inducted":null,"directScores":[0,0,0,0,0,75,0,0],"totalDirectScore":75,"referralScores":[],"totalReferralScore":0,"totalScore":75,"referrer":null},
+            {"memberHandle":"placeholder","memberId":0,"inducted":null,"directScores":[0,0,0,0,0,75,0,0],"totalDirectScore":75,"referralScores":[],"totalReferralScore":0,"totalScore":75,"referrer":null},
             {"memberHandle":"toyballz","memberId":1051,"inducted":null,"directScores":[0,0,0,0,0,75,0,0],"totalDirectScore":75,"referralScores":[],"totalReferralScore":0,"totalScore":75,"referrer":{"memberHandle":"razumv","memberId":1019,"inducted":null,"referralScore":[0,0,0,0,0,15,0,0]}},
             {"memberHandle":"itdtin","memberId":2044,"inducted":null,"directScores":[0,0,0,0,0,75,0,0],"totalDirectScore":75,"referralScores":[],"totalReferralScore":0,"totalScore":75,"referrer":null},
             {"memberHandle":"bruft","memberId":1987,"inducted":null,"directScores":[0,0,0,0,0,75,0,0],"totalDirectScore":75,"referralScores":[],"totalReferralScore":0,"totalScore":75,"referrer":null},
@@ -891,7 +891,7 @@
         {
             "memberHandle": "andybut",
             "memberId": 1316,
-            "inducted": {"fmId":9,"inductedScoringPeriodId":7,"inductedDate":"2021-06-07","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/1337.png?raw=true"},
+            "inducted": {"fmId":9,"inductedScoringPeriodId":7,"inductedDate":"2021-06-07","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/1.png?raw=true"},
             "extraAllocation": 0,
             "directScores": [0,120,145,1000,1000,2500,3000,3000],
             "totalDirectScore": 10765,
