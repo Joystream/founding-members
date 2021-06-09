@@ -1,0 +1,148 @@
+{
+  "information": {
+    "scoringPeriodId": 0,
+    "submittedBy": {
+      "memberId": 1,
+      "memberHandle": "memberHandle",
+      "membershiptControllerKey": "5myMemberCtrl",
+      "keybaseHandle": "keybaseHandle"
+    },
+    "referrer": {
+      "memberIdofReferrer": 2,
+      "memberHandleOfReferrer": "memberHandleOfReferrer"
+    }
+  },
+  "data": {
+    "validator": {
+      "stashAccount": "5myMemberCtrl",
+      "notes": null
+    },
+    "nodeOperator": {
+      "nodeName": "1-memberHandle",
+      "notes": "I changed my node name from 'someName' halfway through the scoring period"
+    },
+    "bountyCompleted": [
+      {
+        "bountyId": 3,
+        "bountyLinks": ["link.to.forum.post","link.to.github","link.to.other"],
+        "proposalLinks": ["link.to.spending.proposal","link.to.more.spending.proposals"],
+        "tJOYtotalRewards": 1000,
+        "notes": null
+      },
+      {
+        "bountyId": 4,
+        "bountyLinks": ["link.to.forum.post","link.to.github","link.to.other"],
+        "proposalLinks": ["link.to.spending.proposal","link.to.more.spending.proposals"],
+        "tJOYtotalRewards": 1200,
+        "notes": null
+      }
+    ],
+    "roles": [
+      {
+        "role": "Curator",
+        "workedId": 5,
+        "hiredBlock": 1234567,
+        "links": ["link.to.1.forum.post","link.to.2.forum.post", "link.to.praise.forum"],
+        "notes": "I have created plenty of reports in the forum, and curated n videos within the Scoring Period"
+      },
+      {
+        "role": "Storage",
+        "workedId": 6,
+        "hiredBlock": 1234567,
+        "links": ["my.storage.node.url","link.to.leads.helios.report"],
+        "notes": "My storage node was up and running during the entire scoring period"
+      },
+      {
+        "role": "Council",
+        "councilTerm": 7,
+        "termStarted": 1234567,
+        "termEnded": 1436167,
+        "kpiShareInPercentage": 8,
+        "links": ["proposal.overview.in.community.repo","link.to.leads.helios.report", "reports.made.in.community.repo", "link.to.1.forum.post", "link.to.2.forum.post"],
+        "notes": "I voted for 23/28 proposals, made comments in three proposal discussions (proposalIds: 123,145,167), made two reports Council, and participated in forum threads."
+      }
+    ],
+    "contentUploads": [
+      {
+        "channelId": 9,
+        "channelTitle": "My Channel",
+        "videoId": 10,
+        "videoTitle": "My Video",
+        "uploadedLink": "link.to.block.of.upload",
+        "ratingLink": "link.to.forum.post",
+        "notes": null
+      },
+      {
+        "channelId": 9,
+        "channelTitle": "My Channel",
+        "videoId": 11,
+        "videoTitle": "My Second Video",
+        "uploadedLink": "link.to.block.of.upload",
+        "ratingLink": "link.to.forum.post",
+        "notes": null
+      }
+    ],
+    "communitySupport": [
+      {
+        "action": "Assisted a user with technical issue",
+        "link": "link.to.discordForumOrOther.place",
+        "notes": null
+      },
+      {
+        "action": "Assisted a user with technical issue",
+        "link": "link.to.discordForumOrOther.place",
+        "notes": null
+      }
+    ],
+    "proposalsMade": [
+      {
+        "proposalId": 12,
+        "openedBlock": 1234567,
+        "proposalType": "Spending",
+        "status": "Approved",
+        "notes": null
+      },
+      {
+        "proposalId": 13,
+        "openedBlock": 1245678,
+        "proposalType": "Text",
+        "status": "Expired",
+        "notes": null
+      }
+    ],
+    "other": [
+      {
+        "description": "Wrote a blog post about Joystream. Posted on twitter, and got lots of interaction.",
+        "links": ["link.to.blog.post", "link.to.tweet", "link.to.forum"],
+        "notes": null
+      },
+      {
+        "description": "Wrote a blog post about Joystream. Posted on twitter, and got lots of interaction.",
+        "links": ["link.to.blog.post", "link.to.tweet", "link.to.forum"],
+        "notes": null
+      }
+    ]
+  },
+  "actionsPerfomedWithAnotherKey": [
+    {
+      "dataItem": "validator",
+      "index": 0,
+      "keyUsed": "5myValStashIsNotSameAsMemberCtrl",
+      "memberId": null,
+      "memberHandle": null,
+      "message": "I am member 1. Signed with 5myValStashIsNotSameAsMemberCtrl",
+      "signature": "0xcd514303823fbfca67e552a1da4787fbce82b4adbe092d84fb0a739b6c478fa0d0a0b70f8fcbc57503abbd020463fb0839f2af253d5d164d3b2c97d28e5dd803",
+      "notes": "I was a validator before the FM program, and has chosen to keep the same key."
+    },
+    {
+      "dataitem": "contentUploads",
+      "index": 0,
+      "keyUsed": "5myBackupMemberCtrl",
+      "memberId": 14,
+      "memberHandle": "myBackupMemberHandle",
+      "message": "I am member 1. Signed with 5myBackupMemberCtrl",
+      "signature": "0xcd514303823fbfca67e552a1da4787fbce82b4adbe092d84fb0a739b6c478fa0d0a0b70f8fcbc57503abbd020463fb0839f2af253d5d164d3b2c97d28e5dd803",
+      "notes": "I made another membership as I was away from the machine with the key"
+    }
+  ]
+}
