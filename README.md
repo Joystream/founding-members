@@ -15,7 +15,7 @@
       Website
     </a>
     <span> | </span>
-    <a href="/scoring-periods/10.md">
+    <a href="/scoring-periods/11.md">
       Period Announcement
     </a>
     <span> | </span>
@@ -30,7 +30,6 @@ Table of Contents
 ==
 
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Scoring Periods](#scoring-periods)
   - [Referral Program](#referral-program)
@@ -92,7 +91,7 @@ The full rules of the Founding Member Program can be found [here](/RULES.md).
 
 ### Current Period
 
-The current [Scoring Period #10](/scoring-periods/10.md) started on the 21st of June, and ends on the 5th of July.
+The current [Scoring Period #10](/scoring-periods/11.md) started on the 5th of July, and ends on the 19th of July.
 
 <!--
 FIXME
