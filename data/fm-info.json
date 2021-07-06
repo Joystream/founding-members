@@ -34,10 +34,10 @@
     {
         "submissionsByRound":
         [
-            653,
-            653,
-            653,
-            653,
+            15,
+            562,
+            287,
+            122,
             143,
             139,
             144,
@@ -84,7 +84,7 @@
             34493,
             27407
         ],
-        "totalSubmissions": 3445,
+        "totalSubmissions": 1819,
         "sumDirectScores": 327810,
         "sumReferralScores": 21298,
         "sumTotalScores": 349108,
