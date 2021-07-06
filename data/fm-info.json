@@ -23,7 +23,7 @@
               {"memberHandle":"rustamone","memberId":2316,"inducted":null,"directScore":1375,"referrer":null},
               {"memberHandle":"drmarkovi","memberId":982,"inducted":null,"directScore":1250,"referrer":null},
               {"memberHandle":"botzmann","memberId":604,"inducted":null,"directScore":900,"referrer":null},
-              {"memberHandle":"xandrell","memberId":867,"inducted":{"fmId":12,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/40.png?raw=true"},"directScore":750,"referrer":null},
+              {"memberHandle":"xandrell","memberId":867,"inducted":{"fmId":11,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/9.png?raw=true"},"directScore":750,"referrer":null},
               {"memberHandle":"okayko","memberId":605,"inducted":null,"directScore":700,"referrer":{"memberHandle":"lopegor","memberId":1369,"inducted":{"fmId":8,"inductedScoringPeriodId":5,"inductedDate":"2021-04-23","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/39.png?raw=true"},"referralScore":[0,100,25,51,71,150,200,80,80,140]}},
               {"memberHandle":"leet_joy","memberId":957,"inducted":null,"directScore":650,"referrer":null},
               {"memberHandle":"lyazufey1812","memberId":1905,"inducted":null,"directScore":600,"referrer":null}
@@ -32,6 +32,7 @@
     },
     "scores":
     {
+        "cutoff": "2021-06-24T14:09:34.379Z",
         "submissionsByRound":
         [
             15,
@@ -93,13 +94,13 @@
             {"memberHandle":"tomato","memberId":2,"inducted":{"fmId":1,"inductedScoringPeriodId":0,"inductedDate":"2021-02-21","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/31.png?raw=true"},"directScores":[0,5000,5000,0,null,4500,4500,4500,4500,null],"totalDirectScore":28000,"referralScores":[],"totalReferralScore":0,"totalScore":28000,"referrer":null},
             {"memberHandle":"freakstatic","memberId":306,"inducted":{"fmId":5,"inductedScoringPeriodId":0,"inductedDate":"2021-02-21","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/3.png?raw=true"},"directScores":[0,3750,2000,2200,2500,2500,2500,2500,null,null],"totalDirectScore":17950,"referralScores":[],"totalReferralScore":0,"totalScore":17950,"referrer":null},
             {"memberHandle":"andybut","memberId":1316,"inducted":{"fmId":9,"inductedScoringPeriodId":7,"inductedDate":"2021-06-07","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/1.png?raw=true"},"directScores":[0,120,145,1000,1000,2500,3000,3000,3500,3500],"totalDirectScore":17765,"referralScores":[],"totalReferralScore":0,"totalScore":17765,"referrer":null},
-            {"memberHandle":"lopegor","memberId":1369,"inducted":{"fmId":8,"inductedScoringPeriodId":5,"inductedDate":"2021-04-23","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/39.png?raw=true"},"directScores":[0,3000,2100,2500,2500,3000,null,null,null,null],"totalDirectScore":13100,"referralScores":[{"memberId":1054,"referralScore":18},{"memberId":1362,"referralScore":61},{"memberId":1443,"referralScore":34},{"memberId":767,"referralScore":32},{"memberId":694,"referralScore":37},{"memberId":605,"referralScore":897},{"memberId":1434,"referralScore":145},{"memberId":1876,"referralScore":15},{"memberId":1880,"referralScore":31}],"totalReferralScore":1270,"totalScore":14370,"referrer":{"memberHandle":"gryhail","memberId":1173,"inducted":{"fmId":11,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/9.png?raw=true"},"referralScore":[0,600,420,500,500,600,0,0,0,0]}},
+            {"memberHandle":"lopegor","memberId":1369,"inducted":{"fmId":8,"inductedScoringPeriodId":5,"inductedDate":"2021-04-23","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/39.png?raw=true"},"directScores":[0,3000,2100,2500,2500,3000,null,null,null,null],"totalDirectScore":13100,"referralScores":[{"memberId":1054,"referralScore":18},{"memberId":1362,"referralScore":61},{"memberId":1443,"referralScore":34},{"memberId":767,"referralScore":32},{"memberId":694,"referralScore":37},{"memberId":605,"referralScore":897},{"memberId":1434,"referralScore":145},{"memberId":1876,"referralScore":15},{"memberId":1880,"referralScore":31}],"totalReferralScore":1270,"totalScore":14370,"referrer":{"memberHandle":"gryhail","memberId":1173,"inducted":{"fmId":12,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/40.png?raw=true"},"referralScore":[0,600,420,500,500,600,0,0,0,0]}},
             {"memberHandle":"cheomsk","memberId":552,"inducted":{"fmId":7,"inductedScoringPeriodId":5,"inductedDate":"2021-04-23","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/2.png?raw=true"},"directScores":[0,4000,1900,2000,2000,1350,1300,365,400,375],"totalDirectScore":13690,"referralScores":[],"totalReferralScore":0,"totalScore":13690,"referrer":null},
             {"memberHandle":"seainvestor","memberId":684,"inducted":null,"directScores":[0,2000,150,200,200,100,200,75,150,125],"totalDirectScore":3200,"referralScores":[{"memberId":971,"referralScore":20},{"memberId":913,"referralScore":15},{"memberId":960,"referralScore":5},{"memberId":685,"referralScore":195},{"memberId":1144,"referralScore":5},{"memberId":1560,"referralScore":33},{"memberId":1138,"referralScore":115},{"memberId":1152,"referralScore":100},{"memberId":989,"referralScore":28},{"memberId":1609,"referralScore":15},{"memberId":841,"referralScore":60},{"memberId":701,"referralScore":53},{"memberId":777,"referralScore":187},{"memberId":864,"referralScore":32},{"memberId":728,"referralScore":10},{"memberId":1620,"referralScore":12},{"memberId":1109,"referralScore":348},{"memberId":904,"referralScore":22},{"memberId":710,"referralScore":148},{"memberId":705,"referralScore":203},{"memberId":912,"referralScore":15},{"memberId":1411,"referralScore":15},{"memberId":1672,"referralScore":60},{"memberId":1577,"referralScore":20},{"memberId":1610,"referralScore":60},{"memberId":1413,"referralScore":15},{"memberId":630,"referralScore":127},{"memberId":1481,"referralScore":30},{"memberId":1217,"referralScore":38},{"memberId":1367,"referralScore":15},{"memberId":1368,"referralScore":0},{"memberId":1050,"referralScore":40},{"memberId":1360,"referralScore":49},{"memberId":974,"referralScore":75},{"memberId":906,"referralScore":15},{"memberId":1496,"referralScore":22},{"memberId":959,"referralScore":329},{"memberId":1082,"referralScore":110},{"memberId":1448,"referralScore":137},{"memberId":969,"referralScore":15},{"memberId":947,"referralScore":26},{"memberId":1490,"referralScore":217},{"memberId":1585,"referralScore":70},{"memberId":1552,"referralScore":90},{"memberId":985,"referralScore":132},{"memberId":1052,"referralScore":24},{"memberId":1285,"referralScore":5},{"memberId":1647,"referralScore":29},{"memberId":1615,"referralScore":30},{"memberId":1648,"referralScore":15},{"memberId":1706,"referralScore":137},{"memberId":1753,"referralScore":15},{"memberId":1273,"referralScore":127},{"memberId":778,"referralScore":52},{"memberId":1655,"referralScore":15},{"memberId":584,"referralScore":30},{"memberId":1745,"referralScore":15},{"memberId":1752,"referralScore":60},{"memberId":1055,"referralScore":15},{"memberId":1174,"referralScore":40},{"memberId":1894,"referralScore":94},{"memberId":1838,"referralScore":15},{"memberId":1932,"referralScore":15},{"memberId":1956,"referralScore":15},{"memberId":1999,"referralScore":458},{"memberId":2071,"referralScore":85},{"memberId":2154,"referralScore":118}],"totalReferralScore":4737,"totalScore":7937,"referrer":{"memberHandle":"narniec","memberId":585,"inducted":null,"referralScore":[0,400,30,40,40,20,40,15,30,25]}},
             {"memberHandle":"joystreamenthusiast","memberId":555,"inducted":{"fmId":10,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/37.png?raw=true"},"directScores":[0,1200,1150,0,null,1850,null,null,2500,200],"totalDirectScore":6900,"referralScores":[{"memberId":582,"referralScore":207}],"totalReferralScore":207,"totalScore":7107,"referrer":null},
-            {"memberHandle":"gryhail","memberId":1173,"inducted":{"fmId":11,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/9.png?raw=true"},"directScores":[0,650,1350,325,75,360,585,500,275,null],"totalDirectScore":4120,"referralScores":[{"memberId":1369,"referralScore":2620}],"totalReferralScore":2620,"totalScore":6740,"referrer":{"memberHandle":"dd659","memberId":1219,"inducted":null,"referralScore":[0,130,270,65,15,72,117,100,55,0]}},
+            {"memberHandle":"gryhail","memberId":1173,"inducted":{"fmId":12,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/40.png?raw=true"},"directScores":[0,650,1350,325,75,360,585,500,275,null],"totalDirectScore":4120,"referralScores":[{"memberId":1369,"referralScore":2620}],"totalReferralScore":2620,"totalScore":6740,"referrer":{"memberHandle":"dd659","memberId":1219,"inducted":null,"referralScore":[0,130,270,65,15,72,117,100,55,0]}},
             {"memberHandle":"igrex","memberId":1048,"inducted":null,"directScores":[0,175,490,650,400,650,750,750,750,1675],"totalDirectScore":6290,"referralScores":[],"totalReferralScore":0,"totalScore":6290,"referrer":{"memberHandle":"leet_joy","memberId":957,"inducted":null,"referralScore":[0,35,98,130,80,130,150,150,150,335]}},
-            {"memberHandle":"xandrell","memberId":867,"inducted":{"fmId":12,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/40.png?raw=true"},"directScores":[0,1500,650,350,350,390,800,750,750,750],"totalDirectScore":6290,"referralScores":[],"totalReferralScore":0,"totalScore":6290,"referrer":null},
+            {"memberHandle":"xandrell","memberId":867,"inducted":{"fmId":11,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/9.png?raw=true"},"directScores":[0,1500,650,350,350,390,800,750,750,750],"totalDirectScore":6290,"referralScores":[],"totalReferralScore":0,"totalScore":6290,"referrer":null},
             {"memberHandle":"leet_joy","memberId":957,"inducted":null,"directScores":[0,500,235,75,370,395,890,600,560,650],"totalDirectScore":4275,"referralScores":[{"memberId":1048,"referralScore":1258},{"memberId":1042,"referralScore":90},{"memberId":1737,"referralScore":169},{"memberId":2230,"referralScore":20}],"totalReferralScore":1537,"totalScore":5812,"referrer":null},
             {"memberHandle":"botzmann","memberId":604,"inducted":null,"directScores":[0,1375,625,500,null,395,800,525,500,900],"totalDirectScore":5620,"referralScores":[],"totalReferralScore":0,"totalScore":5620,"referrer":null},
             {"memberHandle":"narniec","memberId":585,"inducted":null,"directScores":[500,2500,0,95,95,100,null,null,null,null],"totalDirectScore":3290,"referralScores":[{"memberId":976,"referralScore":60},{"memberId":684,"referralScore":640},{"memberId":1079,"referralScore":24},{"memberId":789,"referralScore":20},{"memberId":622,"referralScore":20},{"memberId":1131,"referralScore":243},{"memberId":1015,"referralScore":660},{"memberId":1412,"referralScore":187},{"memberId":881,"referralScore":26},{"memberId":1207,"referralScore":25},{"memberId":592,"referralScore":128},{"memberId":993,"referralScore":59},{"memberId":771,"referralScore":17},{"memberId":1074,"referralScore":45}],"totalReferralScore":2154,"totalScore":5444,"referrer":null},
@@ -917,7 +918,7 @@
             "totalDirectScore": 13100,
             "referralScores": [{"memberId":1054,"referralScore":18},{"memberId":1362,"referralScore":61},{"memberId":1443,"referralScore":34},{"memberId":767,"referralScore":32},{"memberId":694,"referralScore":37},{"memberId":605,"referralScore":897},{"memberId":1434,"referralScore":145},{"memberId":1876,"referralScore":15},{"memberId":1880,"referralScore":31}],
             "totalReferralScore": 1270,
-            "referrer": {"memberHandle":"gryhail","memberId":1173,"inducted":{"fmId":11,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/9.png?raw=true"},"referralScore":[0,600,420,500,500,600,0,0,0,0]},
+            "referrer": {"memberHandle":"gryhail","memberId":1173,"inducted":{"fmId":12,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/40.png?raw=true"},"referralScore":[0,600,420,500,500,600,0,0,0,0]},
             "totalScore": 14370
         },
         {
@@ -946,20 +947,8 @@
         },
         {
             "memberHandle": "xandrell",
-            "memberId": 1173,
-            "inducted": {"fmId":11,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/9.png?raw=true"},
-            "extraAllocation": 0,
-            "directScores": [0,650,1350,325,75,360,585,500,275,null],
-            "totalDirectScore": 4120,
-            "referralScores": [{"memberId":1369,"referralScore":2620}],
-            "totalReferralScore": 2620,
-            "referrer": {"memberHandle":"dd659","memberId":1219,"inducted":null,"referralScore":[0,130,270,65,15,72,117,100,55,0]},
-            "totalScore": 6740
-        },
-        {
-            "memberHandle": "gryhail",
             "memberId": 867,
-            "inducted": {"fmId":12,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/40.png?raw=true"},
+            "inducted": {"fmId":11,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/9.png?raw=true"},
             "extraAllocation": 0,
             "directScores": [0,1500,650,350,350,390,800,750,750,750],
             "totalDirectScore": 6290,
@@ -967,6 +956,18 @@
             "totalReferralScore": 0,
             "referrer": null,
             "totalScore": 6290
+        },
+        {
+            "memberHandle": "gryhail",
+            "memberId": 1173,
+            "inducted": {"fmId":12,"inductedScoringPeriodId":9,"inductedDate":"2021-07-05","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/40.png?raw=true"},
+            "extraAllocation": 0,
+            "directScores": [0,650,1350,325,75,360,585,500,275,null],
+            "totalDirectScore": 4120,
+            "referralScores": [{"memberId":1369,"referralScore":2620}],
+            "totalReferralScore": 2620,
+            "referrer": {"memberHandle":"dd659","memberId":1219,"inducted":null,"referralScore":[0,130,270,65,15,72,117,100,55,0]},
+            "totalScore": 6740
         }
     ]
 }
