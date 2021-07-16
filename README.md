@@ -91,7 +91,7 @@ The full rules of the Founding Member Program can be found [here](/RULES.md).
 
 ### Current Period
 
-The current [Scoring Period #10](/scoring-periods/11.md) started on the 5th of July, and ends on the 19th of July.
+The current [Scoring Period #11](/scoring-periods/11.md) started on the 5th of July, and ends on the 19th of July.
 
 <!--
 FIXME
