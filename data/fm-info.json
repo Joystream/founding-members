@@ -996,7 +996,7 @@
         {
             "memberHandle": "dapplooker",
             "memberId": 2183,
-            "inducted": {"fmId":13,"inductedScoringPeriodId":10,"inductedDate":"21.07.21","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/44.png?raw=true"},
+            "inducted": {"fmId":13,"inductedScoringPeriodId":10,"inductedDate":"21-07-21","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/44.png?raw=true"},
             "extraAllocation": 0,
             "directScores": [null,null,null,null,null,null,null,null,4500,1000,1000],
             "totalDirectScore": 6500,
@@ -1008,7 +1008,7 @@
         {
             "memberHandle": "igrex",
             "memberId": 1048,
-            "inducted": {"fmId":14,"inductedScoringPeriodId":10,"inductedDate":"21.07.21","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/49.png?raw=true"},
+            "inducted": {"fmId":14,"inductedScoringPeriodId":10,"inductedDate":"21-07-21","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/49.png?raw=true"},
             "extraAllocation": 0,
             "directScores": [0,175,490,650,400,650,750,750,750,1675,1850],
             "totalDirectScore": 8140,
@@ -1018,9 +1018,9 @@
             "totalScore": 8140
         },
         {
-            "memberHandle": "@maxlevush",
+            "memberHandle": "maxlevush",
             "memberId": 2130,
-            "inducted": {"fmId":15,"inductedScoringPeriodId":10,"inductedDate":"21.07.21","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/29.png?raw=true"},
+            "inducted": {"fmId":15,"inductedScoringPeriodId":10,"inductedDate":"21-07-21","avatar":"https://github.com/Joystream/founding-members/blob/main/avatars/primary-avatar/29.png?raw=true"},
             "extraAllocation": 0,
             "directScores": [null,null,null,null,null,null,75,750,900,1800,3250],
             "totalDirectScore": 6775,
