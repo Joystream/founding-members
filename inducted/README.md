@@ -11,12 +11,21 @@
 |`@cheomsk`           | 552     |23.04.21|<img width="40" src="/avatars/primary-avatar/2.png">      |2   | 7   |
 |`@lopegor`           | 1369     |23.04.21|<img width="40" src="/avatars/primary-avatar/39.png">    |39  | 8   |
 |`@andybut`           | 1316     |07.06.21|<img width="40" src="/avatars/primary-avatar/1.png">     |1   | 9   |
+|`@gryhail`           | 1173     |05.07.21|<img width="40" src="/avatars/primary-avatar/40.png">    |40  | 10  |
+|`@xandrell`          | 867     |05.07.21|<img width="40" src="/avatars/primary-avatar/9.png">     |9   | 11  |
+|`@joystreamenthusiast` | 555   |05.07.21|<img width="40" src="/avatars/primary-avatar/37.png">  |37   | 12  |
+|`@dapplooker`        | 2183     |21.07.21|<img width="40" src="/avatars/primary-avatar/44.png">     |44   | 13  |
+|`@igrex`             | 1048     |21.07.21|<img width="40" src="/avatars/primary-avatar/49.png">     |49   | 14  |
+|`@maxlevush`         | 2130     |21.07.21|<img width="40" src="/avatars/primary-avatar/29.png">     |29   | 15  |
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
 
 <br>
 
 ### Avatars
-<img width="200" src="/avatars/selected-avatars/31-tomato.png"><img width="200" src="/avatars/selected-avatars/6-nexusfallout.png"><img width="200" src="/avatars/selected-avatars/19-enjoythefood.png"><img width="200" src="/avatars/selected-avatars/3-freakstatic.png"><br><img width="200" src="/avatars/selected-avatars/8-l1dev.png"><img width="200" src="/avatars/selected-avatars/2-cheomsk.png"><img width="200" src="/avatars/selected-avatars/39-lopegor.png"><img width="200" src="/avatars/selected-avatars/1-andybut.png">
+<img width="200" src="/avatars/selected-avatars/31-tomato.png"><img width="200" src="/avatars/selected-avatars/6-nexusfallout.png"><img width="200" src="/avatars/selected-avatars/19-enjoythefood.png"><img width="200" src="/avatars/selected-avatars/3-freakstatic.png"><br><img width="200" src="/avatars/selected-avatars/8-l1dev.png"><img width="200" src="/avatars/selected-avatars/2-cheomsk.png"><img width="200" src="/avatars/selected-avatars/39-lopegor.png"><img width="200" src="/avatars/selected-avatars/1-andybut.png"><br>
+
+<img width="200" src="/avatars/selected-avatars/40-gryhail.png"><img width="200" src="/avatars/selected-avatars/9-xandrell.png"><img width="200" src="/avatars/selected-avatars/37-joystreamenthusiast.png"><img width="200" src="/avatars/selected-avatars/44-dapplooker.png"><br>
+<img width="200" src="/avatars/selected-avatars/49-igrex.png"><img width="200" src="/avatars/selected-avatars/29-maxlevush.png">
 
 <br>
 
