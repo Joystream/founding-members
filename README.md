@@ -15,7 +15,7 @@
       Website
     </a>
     <span> | </span>
-    <a href="/scoring-periods/12.md">
+    <a href="/scoring-periods/13.md">
       Period Announcement
     </a>
     <span> | </span>
@@ -91,7 +91,7 @@ The full rules of the Founding Member Program can be found [here](/RULES.md).
 
 ### Current Period
 
-The current [Scoring Period #12](/scoring-periods/12.md) started on the 19th of July, and ends on the 2nd of August.
+The current [Scoring Period #13](/scoring-periods/13.md) started on the 2nd of August, and ends on the 16th of August.
 
 <!--
 FIXME
