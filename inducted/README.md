@@ -23,7 +23,8 @@
 |`@isonar`            | 2182     |17.08.21|<img width="40" src="/avatars/primary-avatar/25.png">     |25   | 19  |
 |`@lkskrn`            | 644      |30.08.21|<img width="40" src="/avatars/primary-avatar/13.png">     |13   | 20  |
 |`@laura`             | 2329     |15.09.21|<img width="40" src="/avatars/primary-avatar/16.png">     |16   | 21  |
-|`@lyazufey1812`      | 1905     |15.09.21|<img width="40" src="/avatars/primary-avatar/26.png">     |26   | 22  |
+|`@kate_fm`           | 1905     |15.09.21|<img width="40" src="/avatars/primary-avatar/26.png">     |26   | 22  |
+|`@chiffah`           | 2462     |29.09.21|<img width="40" src="/avatars/primary-avatar/14.png">     |14   | 23  |
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
 
 <br>
@@ -36,8 +37,9 @@
 <img width="200" src="/avatars/selected-avatars/22-drmarkovi.png"><img width="200" src="/avatars/selected-avatars/25-isonar.png"><br>
 <img width="200" src="/avatars/selected-avatars/38-seainvestor.png"><img width="200" src="/avatars/selected-avatars/5-oiclid.png">
 <img width="200" src="/avatars/selected-avatars/13-lkskrn.png">
-<br> <img width="200" src="/avatars/selected-avatars/16-laura.png">
+<img width="200" src="/avatars/selected-avatars/16-laura.png"><br>
 <img width="200" src="/avatars/selected-avatars/26-lyazufey1812.png">
+<img width="200" src="/avatars/selected-avatars/14-chiffah.png">
 <br>
 
 ### Note on "Initial Founding Members"
