@@ -25,6 +25,10 @@
 |`@laura`             | 2329     |15.09.21|<img width="40" src="/avatars/primary-avatar/16.png">     |16   | 21  |
 |`@kate_fm`           | 1905     |15.09.21|<img width="40" src="/avatars/primary-avatar/26.png">     |26   | 22  |
 |`@chiffah`           | 2462     |29.09.21|<img width="40" src="/avatars/primary-avatar/14.png">     |14   | 23  |
+|`@mmsaww`            | 736      |13.10.21|<img width="40" src="/avatars/primary-avatar/51.png">     |51   | 24  |
+|`@svasilenko`        | 2096     |13.10.21|<img width="40" src="/avatars/primary-avatar/7.png">      |7   | 25  |
+|`@ururu`             | 790      |13.10.21|<img width="40" src="/avatars/primary-avatar/43.png">     |43   | 26  |
+|`@ilich`             | 2194     |13.10.21|<img width="40" src="/avatars/primary-avatar/41.png">     |41   | 27  |
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
 
 <br>
@@ -40,6 +44,11 @@
 <img width="200" src="/avatars/selected-avatars/16-laura.png"><br>
 <img width="200" src="/avatars/selected-avatars/26-lyazufey1812.png">
 <img width="200" src="/avatars/selected-avatars/14-chiffah.png">
+<img width="200" src="/avatars/selected-avatars/51-mmsaww.png">
+<img width="200" src="/avatars/selected-avatars/41-ilich.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/7-svasilenko.png">
+<img width="200" src="/avatars/selected-avatars/41-ururu.png">
 <br>
 
 ### Note on "Initial Founding Members"
