@@ -48,7 +48,7 @@
 <img width="200" src="/avatars/selected-avatars/41-ilich.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/7-svasilenko.png">
-<img width="200" src="/avatars/selected-avatars/41-ururu.png">
+<img width="200" src="/avatars/selected-avatars/43-ururu.png">
 <br>
 
 ### Note on "Initial Founding Members"
