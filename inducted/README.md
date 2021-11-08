@@ -29,6 +29,8 @@
 |`@svasilenko`        | 2096     |13.10.21|<img width="40" src="/avatars/primary-avatar/7.png">      |7   | 25  |
 |`@ururu`             | 790      |13.10.21|<img width="40" src="/avatars/primary-avatar/43.png">     |43   | 26  |
 |`@ilich`             | 2194     |13.10.21|<img width="40" src="/avatars/primary-avatar/41.png">     |41   | 27  |
+|`@marat_mu`          | 2154     |26.10.21|<img width="40" src="/avatars/primary-avatar/21.png">     |21   | 28  |
+|`@0x2bc`             | 2098     |26.10.21|<img width="40" src="/avatars/primary-avatar/28.png">     |28   | 29  |
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
 
 <br>
@@ -49,6 +51,8 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/7-svasilenko.png">
 <img width="200" src="/avatars/selected-avatars/43-ururu.png">
+<img width="200" src="/avatars/selected-avatars/21-marat_mu.png">
+<img width="200" src="/avatars/selected-avatars/28-0x2bc.png">
 <br>
 
 ### Note on "Initial Founding Members"
