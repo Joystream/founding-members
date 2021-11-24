@@ -19,9 +19,11 @@ From now on, we would like to make it very clear that scores are highly dependen
 
 Please keep in mind that all points are ultimately awarded based on the judgement and discretion of Jsgenesis reviewers.
 
-Below we have listed some exemplar contributions. As we learn more about the evolving ways in which our community want to contribute, we will update this list with further tasks.
+Below we have listed some exemplar contributions. As we learn more about the evolving ways in which our community want to contribute, we will update this list with further tasks. Note that we have now also added indications of the typical _impact_ of each contribution type on the success of the project/testnet/community. For those serious about becoming a Founding Member, the focus should certainly be on [`high impact`] tasks.
 
 ### Example Tasks
+
+<!---
 
 #### Network Integrity
 - running a validator
@@ -37,26 +39,37 @@ Below we have listed some exemplar contributions. As we learn more about the evo
   - see more information [here](https://github.com/Joystream/founding-members/blob/main/technical-help/README.md)
   - because there is little additional benefit in terms of learning about the project from setting up more than one node, we are likely to offer smaller rewards for further nodes you set up, though these will still qualify for rewards.
 
+-->
+
+#### Testnet Contributions
+- Bounties [`high impact`]
+  - The completion of official bounties can be included in your regular Founding Member summary and these will usually result in points being awarded. The number of leaderboard points will be proportional to the complexity of the bounty and effort invested.
+- KPIs [`high impact`]
+  - If you can provide evidence that you played a significant role in the Council achieving a specific KPI, you can also include this in your regular summary.
+- Roles [`medium to high impact`]
+  - Ongoing participation in platform roles and working groups will also qualify for leaderboard points.
+  - More points will be recieved depending on the intensity and effectiveness of work performed.
+
 #### Community Communication
-- discussing the project on twitter/discord/telegram/reddit
+- discussing the project on twitter/discord/telegram/reddit [`low impact`]
   - sharing information and opinions about our project with others through social channels is a key way in which we can help drive more people to the platform
   - participating in meaningful discourse about Joystream will be rewarded, while remotely spammy activity will be disqualified from receiving points
   - quality beats quantity to a very substantial degree here!
-- managing localized groups/communities 
+- managing localized groups/communities [`medium impact`]
   - we are keen to make Joystream open to people from all over the world, and realize that Joystream enthusiasts may not always be native English speakers.
   - the creation of specific language Telegram or other chat groups about Joystream where members in a specific locality can discuss the project is certainly useful, and if done successfully may be rewarded with leaderboard points.
   - where there is already an established group for a given region or language, creating another one is unlikely to earn you any points
-- writing blog posts about Joystream
+- writing blog posts about Joystream [`low to medium impact`]
   - we are keen for community members to explain aspects of the platform to new members, and blog posts on Medium or your personal blog etc. are a great way to share information, tutorials or your thoughts about the project.
   - the points received for blog posts will vary enormously: unoriginal translations of our content are likely to earn very few points while original and thoughtful posts written in English may earn a substantial number of points
-- making interesting posts on the platform forum
+- making interesting posts on the platform forum [`low to medium impact`]
   - the on-chain platform forum aims to be the hub of communication between our community members, so enriching this community space with high-quality posts is strongly encouraged and will receive generous rewards
-- webinar/workshop/meetup
+- webinar/workshop/meetup [`medium impact`]
   - if you would like to organize some sort of event to discuss the platform, this is strongly encouraged
   - funding may also be available from the Council for these kinds of initiatives
-- providing support in our Discord server
+- providing support in our Discord server [`medium impact`]
   - providing effective help to fellow participants and especially guiding new joiners through Discord is a critically important way in which our community can ensure its continued growth and ensure new participants are not lost in the broad scope of the project
-- community proposals
+- community proposals [`medium to high impact`]
   - if you have a big idea about some project, bounty or other improvement for the community, you can share it with us on GitHub, the platform forum or using the proposals system
   - depending on whether Jsgenesis and the community likes your idea, it is likely to be eligible for leaderboard points (in addition to funding via the platform)
 
@@ -68,43 +81,37 @@ Accessibility:
 -->
 
 #### Enriching Testnet
-- improving content metadata and reporting issues to content curators
+- improving content metadata and reporting issues to content curators [`low to medium impact`]
   - it's important that video content displayed on our testnet looks good, and if there are any issues with incorrect metadata, license, playback or associated media these should be reported to the Content Curators
-- original content uploads
+- original content uploads [`low to medium impact`]
   - one of the simplest to add value to the network is by adding your own content to our content directory, as a result we will generously reward such contributions.
-- uploading tutorial videos
+- uploading tutorial videos [`medium impact`]
   - tutorial videos are an excellent medium for helping people to get to grips with participating on the platform while also augmenting our growing library of content.
-- uploading unique content to the platform
+- uploading unique content to the platform [`low to medium impact`]
   - content uploaded doesn't all have to be strictly original, and public domain and creative commons-licensed uploads will also be eligible rewards if they are unique or interesting
   - duplicate and low-quality uploads will not qualify for rewards and content which is improperly licensed or breaks our Terms of Service may result in further penalties
-- creating channels
+- creating channels [`low impact`]
   - as part of the above, organizing content uploaded into distinct channels with specific themes or content types will increase rewards
 
 #### Coding
-- developing tools outside the scope of official bounties (such as wallets, faucet, Discord/Telegram Bots, block explorers etc.), optionally through requesting funding through a Council spending proposal represent very valuable contributions to the project and will be rewarded generously with Founding Member points.
+- developing tools outside the scope of official bounties [`very high impact`]
+  - (such as wallets, faucet, Discord/Telegram Bots, block explorers etc.), optionally through requesting funding through a Council spending proposal represent very valuable contributions to the project and will be rewarded generously with Founding Member points.
 - completing coding bounties will also be rewarded (see `Testnet Contributions` below)
 
-Creative/Design:
-- designing media assets including illustrations, gifs, memes and infographics to be used by Jsgenesis and other project participants will be rewarded generously with leaderboard points.
+#### Creative/Design:
+- designing media assets [`varibable impact`]
+  -including illustrations, gifs, memes and infographics to be used by Jsgenesis and other project participants will be rewarded generously with leaderboard points.
 
 #### Security
-- identifying bugs
+- identifying bugs [`variable impact`]
   - it is of critical importance that security issues in Joystream are identified and patched
   - participants who draw attention to or write detailed vulnerability reports about issues with our testnet will therefore be rewarded.
 
 #### Testing
-- feedback/suggestions on Joystream products
+- feedback/suggestions on Joystream products [`low to medium impact`]
   - users who provide feedback on Joystream applications and offer suggestions for improvements (either through GitHub issues or on the platform forum) will receive leaderboard points
-- detailed testing of Joystream products
+- detailed testing of Joystream products [`medium impact`]
   - those who want to conduct formal QA testing are likely to be rewarded to an even greater degree than the above
-
-#### Testnet Contributions
-- Bounties
-  - The completion of official bounties can be included in your regular Founding Member summary and these will usually result in points being awarded. The number of leaderboard points will be proportional to the reward value of the bounty.
-- KPIs
-  - If you can provide evidence that you played a significant role in the Council achieving a specific KPI, you can also include this in your regular summary.
-- Roles
-  - Ongoing participation in platform roles will also qualify for leaderboard points.
 
 #### Referrals
 - Referring other people to the project who go on to submit leaderboard summaries will also qualify for rewards (they don't have to ultimately become Founding Members, just earn points).
