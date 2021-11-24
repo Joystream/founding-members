@@ -15,7 +15,7 @@
       Website
     </a>
     <span> | </span>
-    <a href="/scoring-periods/20.md">
+    <a href="/scoring-periods/21.md">
       Period Announcement
     </a>
     <span> | </span>
