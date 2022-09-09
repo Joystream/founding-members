@@ -32,9 +32,9 @@
 | `@0x2bc`               | 2098      | 26.10.21     | <img width="40" src="/avatars/primary-avatar/28.png"> | 28        | 29    |
 | `@marinag_mary`        | 1997      | 22.11.21     | <img width="40" src="/avatars/primary-avatar/50.png"> | 50        | 30    |
 | `@okayko`              | 605       | 03.01.22     | <img width="40" src="/avatars/primary-avatar/17.png"> | 17        | 31    |
-| `@shtimas`             | 798       | 03.01.22     | <img width="40" src="/avatars/primary-avatar/47.png"> | 47        | 32    |
+| `@shtihmas`            | 798       | 03.01.22     | <img width="40" src="/avatars/primary-avatar/47.png"> | 47        | 32    |
 | `@nanapa6otaet`        | 2531      | 03.01.22     | <img width="40" src="/avatars/primary-avatar/11.png"> | 11        | 33    |
-| `@oxygen`              | 3029      | 03.01.22     | <img width="40" src="/avatars/primary-avatar/35.png"> | 35        | 34    |
+| `@mikeshipa`           | 3029      | 03.01.22     | <img width="40" src="/avatars/primary-avatar/35.png"> | 35        | 34    |
 | `@leet_joy`            | 957       | 05.08.22     | <img width="40" src="/avatars/primary-avatar/42.png"> | 42        | 35    |
 | `@jen4ph`              | 3234      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/48.png"> | 48        | 36    |
 | `@adovrn`              | 2502      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/15.png"> | 15        | 37    |
@@ -59,9 +59,9 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/7-svasilenko.png"><img width="200" src="/avatars/selected-avatars/43-ururu.png"><img width="200" src="/avatars/selected-avatars/21-marat_mu.png"><img width="200" src="/avatars/selected-avatars/28-0x2bc.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/50-marinag_mary.png"><img width="200" src="/avatars/selected-avatars/17-okayko.png"><img width="200" src="/avatars/selected-avatars/15-shtimas.png"><img width="200" src="/avatars/selected-avatars/11-nanapa6otaet.png">
+<img width="200" src="/avatars/selected-avatars/50-marinag_mary.png"><img width="200" src="/avatars/selected-avatars/17-okayko.png"><img width="200" src="/avatars/selected-avatars/47-shtihmas.png"><img width="200" src="/avatars/selected-avatars/11-nanapa6otaet.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/35-oxygen.png"><img width="200" src="/avatars/selected-avatars/42-leet_joy.png"><img width="200" src="/avatars/selected-avatars/48-jen4ph.png"><img width="200" src="/avatars/selected-avatars/15-adovrn.png">
+<img width="200" src="/avatars/selected-avatars/35-mikeshipa.png"><img width="200" src="/avatars/selected-avatars/42-leet_joy.png"><img width="200" src="/avatars/selected-avatars/48-jen4ph.png"><img width="200" src="/avatars/selected-avatars/15-adovrn.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/33-kalpakci.png"><img width="200" src="/avatars/selected-avatars/54-alexznet.png">
 
