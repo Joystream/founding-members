@@ -45,53 +45,25 @@
 <br>
 
 ### Avatars
-<img width="200" src="/avatars/selected-avatars/31-tomato.png">
-<img width="200" src="/avatars/selected-avatars/6-nexusfallout.png">
-<img width="200" src="/avatars/selected-avatars/19-enjoythefood.png">
-<img width="200" src="/avatars/selected-avatars/3-freakstatic.png">
+<img width="200" src="/avatars/selected-avatars/31-tomato.png"><img width="200" src="/avatars/selected-avatars/6-nexusfallout.png"><img width="200" src="/avatars/selected-avatars/19-enjoythefood.png"><img width="200" src="/avatars/selected-avatars/3-freakstatic.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/8-l1dev.png">
-<img width="200" src="/avatars/selected-avatars/2-cheomsk.png">
-<img width="200" src="/avatars/selected-avatars/39-lopegor.png">
-<img width="200" src="/avatars/selected-avatars/1-andybut.png">
+<img width="200" src="/avatars/selected-avatars/8-l1dev.png"><img width="200" src="/avatars/selected-avatars/2-cheomsk.png"><img width="200" src="/avatars/selected-avatars/39-lopegor.png"><img width="200" src="/avatars/selected-avatars/1-andybut.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/40-gryhail.png">
-<img width="200" src="/avatars/selected-avatars/9-xandrell.png">
-<img width="200" src="/avatars/selected-avatars/37-joystreamenthusiast.png">
-<img width="200" src="/avatars/selected-avatars/44-dapplooker.png">
+<img width="200" src="/avatars/selected-avatars/40-gryhail.png"><img width="200" src="/avatars/selected-avatars/9-xandrell.png"><img width="200" src="/avatars/selected-avatars/37-joystreamenthusiast.png"><img width="200" src="/avatars/selected-avatars/44-dapplooker.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/49-igrex.png">
-<img width="200" src="/avatars/selected-avatars/29-maxlevush.png">
-<img width="200" src="/avatars/selected-avatars/22-drmarkovi.png">
-<img width="200" src="/avatars/selected-avatars/25-isonar.png">
+<img width="200" src="/avatars/selected-avatars/49-igrex.png"><img width="200" src="/avatars/selected-avatars/29-maxlevush.png"><img width="200" src="/avatars/selected-avatars/22-drmarkovi.png"><img width="200" src="/avatars/selected-avatars/25-isonar.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/38-seainvestor.png">
-<img width="200" src="/avatars/selected-avatars/5-oiclid.png">
-<img width="200" src="/avatars/selected-avatars/13-lkskrn.png">
-<img width="200" src="/avatars/selected-avatars/16-laura.png">
+<img width="200" src="/avatars/selected-avatars/38-seainvestor.png"><img width="200" src="/avatars/selected-avatars/5-oiclid.png"><img width="200" src="/avatars/selected-avatars/13-lkskrn.png"><img width="200" src="/avatars/selected-avatars/16-laura.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/26-lyazufey1812.png">
-<img width="200" src="/avatars/selected-avatars/14-chiffah.png">
-<img width="200" src="/avatars/selected-avatars/51-mmsaww.png">
-<img width="200" src="/avatars/selected-avatars/41-ilich.png">
+<img width="200" src="/avatars/selected-avatars/26-lyazufey1812.png"><img width="200" src="/avatars/selected-avatars/14-chiffah.png"><img width="200" src="/avatars/selected-avatars/51-mmsaww.png"><img width="200" src="/avatars/selected-avatars/41-ilich.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/7-svasilenko.png">
-<img width="200" src="/avatars/selected-avatars/43-ururu.png">
-<img width="200" src="/avatars/selected-avatars/21-marat_mu.png">
-<img width="200" src="/avatars/selected-avatars/28-0x2bc.png">
+<img width="200" src="/avatars/selected-avatars/7-svasilenko.png"><img width="200" src="/avatars/selected-avatars/43-ururu.png"><img width="200" src="/avatars/selected-avatars/21-marat_mu.png"><img width="200" src="/avatars/selected-avatars/28-0x2bc.png">
 <br>
-<img width="200" src="/avatars/primary-avatar/50-marinag_mary.png">
-<img width="200" src="/avatars/primary-avatar/17-okayko.png">
-<img width="200" src="/avatars/primary-avatar/15-shtimas.png">
-<img width="200" src="/avatars/primary-avatar/11-nanapa6otaet.png">
+<img width="200" src="/avatars/primary-avatar/50-marinag_mary.png"><img width="200" src="/avatars/primary-avatar/17-okayko.png"><img width="200" src="/avatars/primary-avatar/15-shtimas.png"><img width="200" src="/avatars/primary-avatar/11-nanapa6otaet.png">
 <br>
-<img width="200" src="/avatars/primary-avatar/35-oxygen.png">
-<img width="200" src="/avatars/primary-avatar/42-leet_joy.png">
-<img width="200" src="/avatars/primary-avatar/48-jen4ph.png">
-<img width="200" src="/avatars/primary-avatar/15-adovrn.png">
+<img width="200" src="/avatars/primary-avatar/35-oxygen.png"><img width="200" src="/avatars/primary-avatar/42-leet_joy.png"><img width="200" src="/avatars/primary-avatar/48-jen4ph.png"><img width="200" src="/avatars/primary-avatar/15-adovrn.png">
 <br>
-<img width="200" src="/avatars/primary-avatar/33-kalpakci.png">
-<img width="200" src="/avatars/primary-avatar/54-alexznet.png">
+<img width="200" src="/avatars/primary-avatar/33-kalpakci.png"><img width="200" src="/avatars/primary-avatar/54-alexznet.png">
 
 ### Note on "Initial Founding Members"
 _Although all existing community members were given the opportunity to claim points through the summary submission system for their contributions which were made before this program was launched, we agreed that for some of our most active and engaged participants, it was neither practical nor fair to have them formally account for all of their many contributions to the project which took place over months of participation._
