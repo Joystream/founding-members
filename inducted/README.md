@@ -29,30 +29,47 @@
 | `@ururu`               | 790       | 13.10.21     | <img width="40" src="/avatars/primary-avatar/43.png"> | 43        | 26    |
 | `@ilich`               | 2194      | 13.10.21     | <img width="40" src="/avatars/primary-avatar/41.png"> | 41        | 27    |
 | `@marat_mu`            | 2154      | 26.10.21     | <img width="40" src="/avatars/primary-avatar/21.png"> | 21        | 28    |
-| `@0x2bc`               | 2098      | 26.10.21     | <img width="40" src="/avatars/primary-avatar/.png">   | 28        | 29    |
+| `@0x2bc`               | 2098      | 26.10.21     | <img width="40" src="/avatars/primary-avatar/28.png"> | 28        | 29    |
 | `@marinag_mary`        | 1997      | 22.11.21     | <img width="40" src="/avatars/primary-avatar/50.png"> | 50        | 30    |
 | `@okayko`              | 605       | 03.01.22     | <img width="40" src="/avatars/primary-avatar/17.png"> | 17        | 31    |
 | `@shtimas`             | 798       | 03.01.22     | <img width="40" src="/avatars/primary-avatar/47.png"> | 47        | 32    |
 | `@nanapa6otaet`        | 2531      | 03.01.22     | <img width="40" src="/avatars/primary-avatar/11.png"> | 11        | 33    |
 | `@oxygen`              | 3029      | 03.01.22     | <img width="40" src="/avatars/primary-avatar/35.png"> | 35        | 34    |
-| `@leet_joy`            | 957       | 05.08.21     | <img width="40" src="/avatars/primary-avatar/42.png"> | 42        | 35    |
-| `@jen4ph`              | 3234      | 05.08.21     | <img width="40" src="/avatars/primary-avatar/48.png"> | 48        | 36    |
-| `@adovrn`              | 2502      | 05.08.21     | <img width="40" src="/avatars/primary-avatar/15.png"> | 15        | 37    |
-| `@kalpakci`            | 2137      | 05.08.21     | <img width="40" src="/avatars/primary-avatar/33.png"> | 33        | 38    |
-| `@alexznet`            | 2574      | 05.08.21     | <img width="40" src="/avatars/primary-avatar/54.png"> | 54        | 39    |
+| `@leet_joy`            | 957       | 05.08.22     | <img width="40" src="/avatars/primary-avatar/42.png"> | 42        | 35    |
+| `@jen4ph`              | 3234      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/48.png"> | 48        | 36    |
+| `@adovrn`              | 2502      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/15.png"> | 15        | 37    |
+| `@kalpakci`            | 2137      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/33.png"> | 33        | 38    |
+| `@alexznet`            | 2574      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/54.png"> | 54        | 39    |
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
 
 <br>
 
 ### Avatars
-<img width="200" src="/avatars/selected-avatars/31-tomato.png"><img width="200" src="/avatars/selected-avatars/6-nexusfallout.png"><img width="200" src="/avatars/selected-avatars/19-enjoythefood.png"><img width="200" src="/avatars/selected-avatars/3-freakstatic.png"><br><img width="200" src="/avatars/selected-avatars/8-l1dev.png"><img width="200" src="/avatars/selected-avatars/2-cheomsk.png"><img width="200" src="/avatars/selected-avatars/39-lopegor.png"><img width="200" src="/avatars/selected-avatars/1-andybut.png"><br>
-
-<img width="200" src="/avatars/selected-avatars/40-gryhail.png"><img width="200" src="/avatars/selected-avatars/9-xandrell.png"><img width="200" src="/avatars/selected-avatars/37-joystreamenthusiast.png"><img width="200" src="/avatars/selected-avatars/44-dapplooker.png"><br>
-<img width="200" src="/avatars/selected-avatars/49-igrex.png"><img width="200" src="/avatars/selected-avatars/29-maxlevush.png">
-<img width="200" src="/avatars/selected-avatars/22-drmarkovi.png"><img width="200" src="/avatars/selected-avatars/25-isonar.png"><br>
-<img width="200" src="/avatars/selected-avatars/38-seainvestor.png"><img width="200" src="/avatars/selected-avatars/5-oiclid.png">
+<img width="200" src="/avatars/selected-avatars/31-tomato.png">
+<img width="200" src="/avatars/selected-avatars/6-nexusfallout.png">
+<img width="200" src="/avatars/selected-avatars/19-enjoythefood.png">
+<img width="200" src="/avatars/selected-avatars/3-freakstatic.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/8-l1dev.png">
+<img width="200" src="/avatars/selected-avatars/2-cheomsk.png">
+<img width="200" src="/avatars/selected-avatars/39-lopegor.png">
+<img width="200" src="/avatars/selected-avatars/1-andybut.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/40-gryhail.png">
+<img width="200" src="/avatars/selected-avatars/9-xandrell.png">
+<img width="200" src="/avatars/selected-avatars/37-joystreamenthusiast.png">
+<img width="200" src="/avatars/selected-avatars/44-dapplooker.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/49-igrex.png">
+<img width="200" src="/avatars/selected-avatars/29-maxlevush.png">
+<img width="200" src="/avatars/selected-avatars/22-drmarkovi.png">
+<img width="200" src="/avatars/selected-avatars/25-isonar.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/38-seainvestor.png">
+<img width="200" src="/avatars/selected-avatars/5-oiclid.png">
 <img width="200" src="/avatars/selected-avatars/13-lkskrn.png">
-<img width="200" src="/avatars/selected-avatars/16-laura.png"><br>
+<img width="200" src="/avatars/selected-avatars/16-laura.png">
+<br>
 <img width="200" src="/avatars/selected-avatars/26-lyazufey1812.png">
 <img width="200" src="/avatars/selected-avatars/14-chiffah.png">
 <img width="200" src="/avatars/selected-avatars/51-mmsaww.png">
@@ -63,6 +80,18 @@
 <img width="200" src="/avatars/selected-avatars/21-marat_mu.png">
 <img width="200" src="/avatars/selected-avatars/28-0x2bc.png">
 <br>
+<img width="200" src="/avatars/primary-avatar/50-marinag_mary.png">
+<img width="200" src="/avatars/primary-avatar/17-okayko.png">
+<img width="200" src="/avatars/primary-avatar/15-shtimas.png">
+<img width="200" src="/avatars/primary-avatar/11-nanapa6otaet.png">
+<br>
+<img width="200" src="/avatars/primary-avatar/35-oxygen.png">
+<img width="200" src="/avatars/primary-avatar/42-leet_joy.png">
+<img width="200" src="/avatars/primary-avatar/48-jen4ph.png">
+<img width="200" src="/avatars/primary-avatar/15-adovrn.png">
+<br>
+<img width="200" src="/avatars/primary-avatar/33-kalpakci.png">
+<img width="200" src="/avatars/primary-avatar/54-alexznet.png">
 
 ### Note on "Initial Founding Members"
 _Although all existing community members were given the opportunity to claim points through the summary submission system for their contributions which were made before this program was launched, we agreed that for some of our most active and engaged participants, it was neither practical nor fair to have them formally account for all of their many contributions to the project which took place over months of participation._
