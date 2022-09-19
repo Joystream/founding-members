@@ -90,7 +90,7 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/56-dzlzv.png"><img width="200" src="/avatars/selected-avatars/138-DzhideX.png"><img width="200" src="/avatars/selected-avatars/71-kdembler.png"><img width="200" src="/avatars/selected-avatars/76-lezek.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/92-metindemir.png">
+<img width="200" src="/avatars/selected-avatars/92-metindemir.png"><img width="200" src="/avatars/selected-avatars/85-bwhm0.png">
 
 ### Note on "Initial Founding Members"
 _Although all existing community members were given the opportunity to claim points through the summary submission system for their contributions which were made before this program was launched, we agreed that for some of our most active and engaged participants, it was neither practical nor fair to have them formally account for all of their many contributions to the project which took place over months of participation._
