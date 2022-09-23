@@ -47,23 +47,43 @@
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 40    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 41    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 42    |
-| `eldiegod`             | 4384      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/93.png">  | 93        | 43    |
-| `dmtrjsg*`             | HOLD      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/86.png">  | 86        | 44    |
-| `dzlzv`                | 4386      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/56.png">  | 56        | 45    |
-| `DzhideX*`             | HOLD      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/138.png"> | 138       | 46    |
+| `@eldiegod`            | 4384      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/93.png">  | 93        | 43    |
+| `@dmtrmltsv`           | 4401      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/86.png">  | 86        | 44    |
+| `@dzlzv`               | 4386      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/56.png">  | 56        | 45    |
+| `@fujii`               | 510       | 19.09.21     | <img width="40" src="/avatars/primary-avatar/138.png"> | 138       | 46    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 47    |
-| `kdembler*`            | HOLD      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/71.png">  | 71        | 48    |
-| `lezek*`               | HOLD      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/76.png">  | 76        | 49    |
+| `@kdembler`            | 445       | 19.09.21     | <img width="40" src="/avatars/primary-avatar/71.png">  | 71        | 48    |
+| `@lezek`               | 336       | 19.09.21     | <img width="40" src="/avatars/primary-avatar/76.png">  | 76        | 49    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 50    |
-| `bwhm0`                | 1         | 19.09.21     | <img width="40" src="/avatars/primary-avatar/85.png">  | 85        | 51    |
-| `metindemir`           | 4393      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/92.png">  | 92        | 52    |
-| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 53    |
+| `@bwhm0`               | 1         | 19.09.21     | <img width="40" src="/avatars/primary-avatar/85.png">  | 85        | 51    |
+| `@metindemir`          | 4393      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/92.png">  | 92        | 52    |
+| `@mokhtar`             | 0         | 19.09.21     | <img width="40" src="/avatars/primary-avatar/142.png"> | 142       | 53    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 54    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 55    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 56    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 57    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 58    |
+| `@adamprzewoski`       | 4395      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/188.png"> | 188       | 59    |
+| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 60    |
+| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 61    |
+| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 62    |
+| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 63    |
+| `@kira_skipper`        | 2228      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/208.png"> | 208       | HOLD  |
+| `@songoku`             | 3336      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/120.png"> | 120       | HOLD  |
+| `@ardashoff`           | 2697      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/52.png">  | 52        | HOLD  |
+| `@valeriadom`          | 3452      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/101.png"> | 101       | HOLD  |
+| `@gameover`            | 1131      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/197.png"> | 197       | HOLD  |
+| `@alexmanilove`        | 1082      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/115.png"> | 115       | HOLD  |
+| `@minatofund`          | 1839      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/108.png"> | 108       | HOLD  |
+| `@swargo`              | 2532      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/109.png"> | 109       | HOLD  |
+| `@flakes9776`          | 705       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/168.png"> | 168       | HOLD  |
+| `@Craci_BwareLabs`     | 3886      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/211.png"> | 211       | HOLD  |
+| `@antonmashnin`        | 685       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/139.png"> | 139       | HOLD  |
+| `@vladislav220294`     | 2342      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/175.png"> | 175       | HOLD  |
+| `@baikal`              | 559       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/184.png"> | 184       | HOLD  |
+
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
+
 
 <br>
 
@@ -86,11 +106,19 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/35-mikeshipa.png"><img width="200" src="/avatars/selected-avatars/42-leet_joy.png"><img width="200" src="/avatars/selected-avatars/48-jen4ph.png"><img width="200" src="/avatars/selected-avatars/15-adovrn.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/33-kalpakci.png"><img width="200" src="/avatars/selected-avatars/54-alexznet.png"><img width="200" src="/avatars/selected-avatars/93-eldiegod.png"><img width="200" src="/avatars/selected-avatars/86-dmtrjsg.png">
+<img width="200" src="/avatars/selected-avatars/33-kalpakci.png"><img width="200" src="/avatars/selected-avatars/54-alexznet.png"><img width="200" src="/avatars/selected-avatars/93-eldiegod.png"><img width="200" src="/avatars/selected-avatars/86-dmtrmltsv.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/56-dzlzv.png"><img width="200" src="/avatars/selected-avatars/138-DzhideX.png"><img width="200" src="/avatars/selected-avatars/71-kdembler.png"><img width="200" src="/avatars/selected-avatars/76-lezek.png">
+<img width="200" src="/avatars/selected-avatars/56-dzlzv.png"><img width="200" src="/avatars/selected-avatars/138-fujii.png"><img width="200" src="/avatars/selected-avatars/71-kdembler.png"><img width="200" src="/avatars/selected-avatars/76-lezek.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/92-metindemir.png"><img width="200" src="/avatars/selected-avatars/85-bwhm0.png">
+<img width="200" src="/avatars/selected-avatars/92-metindemir.png"><img width="200" src="/avatars/selected-avatars/85-bwhm0.png"><img width="200" src="/avatars/selected-avatars/142-mokhtar.png"><img width="200" src="/avatars/selected-avatars/188-adamprzewoski.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/208-kira_skipper.png"><img width="200" src="/avatars/selected-avatars/120-songoku.png"><img width="200"src="/avatars/selected-avatars/52-ardashoff.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/101-valeriadom.png"><img width="200" src="/avatars/selected-avatars/197-gameover.png"><img width="200" src="/avatars/selected-avatars/115-alexmanilove.png"><img width="200" src="/avatars/selected-avatars/108-minatofund.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/109-swargo.png"><img width="200" src="/avatars/selected-avatars/168-flakes9776.png"><img width="200" src="/avatars/selected-avatars/211-Craci_BwareLabs.png"><img width="200" src="/avatars/selected-avatars/139-antonmashnin.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/175-vladislav220294.png"><img width="200" src="/avatars/selected-avatars/184-baikal.png">
 
 ### Note on "Initial Founding Members"
 _Although all existing community members were given the opportunity to claim points through the summary submission system for their contributions which were made before this program was launched, we agreed that for some of our most active and engaged participants, it was neither practical nor fair to have them formally account for all of their many contributions to the project which took place over months of participation._
