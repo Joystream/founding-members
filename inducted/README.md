@@ -81,7 +81,6 @@
 | `@antonmashnin`        | 685       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/139.png"> | 139       | HOLD  |
 | `@vladislav220294`     | 2342      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/175.png"> | 175       | HOLD  |
 | `@baikal`              | 559       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/184.png"> | 184       | HOLD  |
-
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
 
 
@@ -112,13 +111,13 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/92-metindemir.png"><img width="200" src="/avatars/selected-avatars/85-bwhm0.png"><img width="200" src="/avatars/selected-avatars/142-mokhtar.png"><img width="200" src="/avatars/selected-avatars/188-adamprzewoski.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/208-kira_skipper.png"><img width="200" src="/avatars/selected-avatars/120-songoku.png"><img width="200"src="/avatars/selected-avatars/52-ardashoff.png">
+<img width="200" src="/avatars/selected-avatars/208-kira_skipper.png"><img width="200" src="/avatars/selected-avatars/120-songoku.png"><img width="200" src="/avatars/selected-avatars/52-ardashoff.png"><img width="200" src="/avatars/selected-avatars/101-valeriadom.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/101-valeriadom.png"><img width="200" src="/avatars/selected-avatars/197-gameover.png"><img width="200" src="/avatars/selected-avatars/115-alexmanilove.png"><img width="200" src="/avatars/selected-avatars/108-minatofund.png">
+<img width="200" src="/avatars/selected-avatars/197-gameover.png"><img width="200" src="/avatars/selected-avatars/115-alexmanilove.png"><img width="200" src="/avatars/selected-avatars/108-minatofund.png"><img width="200" src="/avatars/selected-avatars/109-swargo.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/109-swargo.png"><img width="200" src="/avatars/selected-avatars/168-flakes9776.png"><img width="200" src="/avatars/selected-avatars/211-Craci_BwareLabs.png"><img width="200" src="/avatars/selected-avatars/139-antonmashnin.png">
+<img width="200" src="/avatars/selected-avatars/168-flakes9776.png"><img width="200" src="/avatars/selected-avatars/211-Craci_BwareLabs.png"><img width="200" src="/avatars/selected-avatars/139-antonmashnin.png"><img width="200" src="/avatars/selected-avatars/175-vladislav220294.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/175-vladislav220294.png"><img width="200" src="/avatars/selected-avatars/184-baikal.png">
+<img width="200" src="/avatars/selected-avatars/184-baikal.png">
 
 ### Note on "Initial Founding Members"
 _Although all existing community members were given the opportunity to claim points through the summary submission system for their contributions which were made before this program was launched, we agreed that for some of our most active and engaged participants, it was neither practical nor fair to have them formally account for all of their many contributions to the project which took place over months of participation._
