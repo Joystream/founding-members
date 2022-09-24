@@ -40,10 +40,6 @@
 | `@adovrn`              | 2502      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/15.png">  | 15        | 37    |
 | `@kalpakci`            | 2137      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/33.png">  | 33        | 38    |
 | `@alexznet`            | 2574      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/54.png">  | 54        | 39    |
-| `@jen4ph`              | 3234      | 19.09.22     | <img width="40" src="/avatars/primary-avatar/48.png">  | 48        | 36    |
-| `@adovrn`              | 2502      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/15.png">  | 15        | 37    |
-| `@kalpakci`            | 2137      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/33.png">  | 33        | 38    |
-| `@alexznet`            | 2574      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/54.png">  | 54        | 39    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 40    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 41    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 42    |
@@ -52,7 +48,7 @@
 | `@dzlzv`               | 4386      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/56.png">  | 56        | 45    |
 | `@fujii`               | 510       | 19.09.21     | <img width="40" src="/avatars/primary-avatar/138.png"> | 138       | 46    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 47    |
-| `@kdembler`            | 445       | 19.09.21     | <img width="40" src="/avatars/primary-avatar/71.png">  | 71        | 48    |
+| `@klaudiusz`           | 2233      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/71.png">  | 71        | 48    |
 | `@lezek`               | 336       | 19.09.21     | <img width="40" src="/avatars/primary-avatar/76.png">  | 76        | 49    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 50    |
 | `@bwhm0`               | 1         | 19.09.21     | <img width="40" src="/avatars/primary-avatar/85.png">  | 85        | 51    |
@@ -81,7 +77,16 @@
 | `@antonmashnin`        | 685       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/139.png"> | 139       | HOLD  |
 | `@vladislav220294`     | 2342      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/175.png"> | 175       | HOLD  |
 | `@baikal`              | 559       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/184.png"> | 184       | HOLD  |
+| `@Deathix`             | 4236      | 24.09.22     | <img width="40" src="/avatars/primary-avatar/105.png"> | 105       | HOLD  |
+| `@andicapitan`         | 770       | 24.09.22     | <img width="40" src="/avatars/primary-avatar/158.png"> | 158       | HOLD  |
+| `@hayabusa`            | 582       | 24.09.22     | <img width="40" src="/avatars/primary-avatar/58.png">  | 58        | HOLD  |
+| `@alenleps`            | 2682      | 24.09.22     | <img width="40" src="/avatars/primary-avatar/113.png"> | 113       | HOLD  |
+| `@lesnik_utsa`         | 597       | 24.09.22     | <img width="40" src="/avatars/primary-avatar/183.png"> | 183       | HOLD  |
+| `@arsi44_dst`          | 3639      | 24.09.22     | <img width="40" src="/avatars/primary-avatar/110.png"> | 110       | HOLD  |
+| `@arseniy2706`         | 1521      | 24.09.22     | <img width="40" src="/avatars/primary-avatar/119.png"> | 119       | HOLD  |
+
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
+
 
 
 <br>
@@ -107,7 +112,7 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/33-kalpakci.png"><img width="200" src="/avatars/selected-avatars/54-alexznet.png"><img width="200" src="/avatars/selected-avatars/93-eldiegod.png"><img width="200" src="/avatars/selected-avatars/86-dmtrmltsv.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/56-dzlzv.png"><img width="200" src="/avatars/selected-avatars/138-fujii.png"><img width="200" src="/avatars/selected-avatars/71-kdembler.png"><img width="200" src="/avatars/selected-avatars/76-lezek.png">
+<img width="200" src="/avatars/selected-avatars/56-dzlzv.png"><img width="200" src="/avatars/selected-avatars/138-fujii.png"><img width="200" src="/avatars/selected-avatars/71-klaudiusz.png"><img width="200" src="/avatars/selected-avatars/76-lezek.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/92-metindemir.png"><img width="200" src="/avatars/selected-avatars/85-bwhm0.png"><img width="200" src="/avatars/selected-avatars/142-mokhtar.png"><img width="200" src="/avatars/selected-avatars/188-adamprzewoski.png">
 <br>
@@ -117,7 +122,11 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/168-flakes9776.png"><img width="200" src="/avatars/selected-avatars/211-Craci_BwareLabs.png"><img width="200" src="/avatars/selected-avatars/139-antonmashnin.png"><img width="200" src="/avatars/selected-avatars/175-vladislav220294.png">
 <br>
-<img width="200" src="/avatars/selected-avatars/184-baikal.png">
+<img width="200" src="/avatars/selected-avatars/184-baikal.png"><img width="200" src="/avatars/selected-avatars/105-Deathix.png"><img width="200" src="/avatars/selected-avatars/158-andicapitan.png"><img width="200" src="/avatars/selected-avatars/58-hayabusa.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/113-alenleps.png"><img width="200" src="/avatars/selected-avatars/183-lesnik_utsa.png"><img width="200" src="/avatars/selected-avatars/110-arsi44_dst.png"><img width="200" src="/avatars/selected-avatars/119-arseniy2706.png">
+<br>
+
 
 ### Note on "Initial Founding Members"
 _Although all existing community members were given the opportunity to claim points through the summary submission system for their contributions which were made before this program was launched, we agreed that for some of our most active and engaged participants, it was neither practical nor fair to have them formally account for all of their many contributions to the project which took place over months of participation._
