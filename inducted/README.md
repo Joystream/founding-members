@@ -47,7 +47,7 @@
 | `@dmtrmltsv`           | 4401      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/86.png">  | 86        | 44    |
 | `@dzlzv`               | 4386      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/56.png">  | 56        | 45    |
 | `@fujii`               | 510       | 19.09.21     | <img width="40" src="/avatars/primary-avatar/138.png"> | 138       | 46    |
-| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 47    |
+| `@mr_bovo`             | 4133      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/98.png">  | 98        | 47    |
 | `@klaudiusz`           | 2233      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/71.png">  | 71        | 48    |
 | `@lezek`               | 336       | 19.09.21     | <img width="40" src="/avatars/primary-avatar/76.png">  | 76        | 49    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 50    |
@@ -104,6 +104,8 @@
 | `@spat_sochi`          | 1843      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/59.png">  | 59        | HOLD  |
 | `@crptowolf`           | 3594      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/100.png"> | 100       | HOLD  |
 | `@kadyrovs`            | 1345      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/111.png"> | 111       | HOLD  |
+| `@polikosi`            | 2673      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/102.png"> | 102       | HOLD  |
+| `@yyagi`               | 3098      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/154.png"> | 154       | HOLD  |
 
 
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
@@ -213,9 +215,13 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/93-eldiegod.png">
 <br>
+<img width="200" src="/avatars/selected-avatars/98-mr_bovo.png">
+<br>
 <img width="200" src="/avatars/selected-avatars/100-crptowolf.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/101-valeriadom.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/102-polikosi.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/105-Deathix.png">
 <br>
@@ -262,6 +268,8 @@
 <img width="200" src="/avatars/selected-avatars/143-sasha.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/150-kudo94.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/154-yyagi.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/158-andicapitan.png">
 <br>
