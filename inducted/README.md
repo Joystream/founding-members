@@ -40,7 +40,7 @@
 | `@adovrn`              | 2502      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/15.png">  | 15        | 37    |
 | `@kalpakci`            | 2137      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/33.png">  | 33        | 38    |
 | `@alexznet`            | 2574      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/54.png">  | 54        | 39    |
-| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 40    |
+| `@iorveth`             | 4418      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/212.png"> | 212       | 40    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 41    |
 | `@benholdencrowther`   | 7         | 19.09.21     | <img width="40" src="/avatars/primary-avatar/205.png"> | 205       | 42    |
 | `@eldiegod`            | 4384      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/93.png">  | 93        | 43    |
@@ -57,8 +57,8 @@
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 54    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 55    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 56    |
-| `@thesan`              | HOLD      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/114.png"> | 114       | 57    |
-| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 58    |
+| `@thesan`              | 4404      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/114.png"> | 114       | 57    |
+| `@zeeshan`             | 4432      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/24.png">  | 24        | 58    |
 | `@adamprzewoski`       | 4395      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/188.png"> | 188       | 59    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 60    |
 | HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 61    |
@@ -77,37 +77,48 @@
 | `@antonmashnin`        | 685       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/139.png"> | 139       | HOLD  |
 | `@vladislav220294`     | 2342      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/175.png"> | 175       | HOLD  |
 | `@baikal`              | 559       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/184.png"> | 184       | HOLD  |
-| `@Deathix`             | 4236      | 24.09.22     | <img width="40" src="/avatars/primary-avatar/105.png"> | 105       | HOLD  |
-| `@andicapitan`         | 770       | 24.09.22     | <img width="40" src="/avatars/primary-avatar/158.png"> | 158       | HOLD  |
-| `@hayabusa`            | 582       | 24.09.22     | <img width="40" src="/avatars/primary-avatar/58.png">  | 58        | HOLD  |
-| `@alenleps`            | 2682      | 24.09.22     | <img width="40" src="/avatars/primary-avatar/113.png"> | 113       | HOLD  |
-| `@lesnik_utsa`         | 597       | 24.09.22     | <img width="40" src="/avatars/primary-avatar/183.png"> | 183       | HOLD  |
-| `@arsi44_dst`          | 3639      | 24.09.22     | <img width="40" src="/avatars/primary-avatar/110.png"> | 110       | HOLD  |
-| `@arseniy2706`         | 1521      | 24.09.22     | <img width="40" src="/avatars/primary-avatar/119.png"> | 119       | HOLD  |
-| `@sieemma`             | 458       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/213.png"> | 213       | HOLD  |
-| `@Genius`              | 4215      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/203.png"> | 203       | HOLD  |
-| `@svdeshka`            | 590       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/116.png"> | 116       | HOLD  |
-| `@ivant`               | 3089      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/122.png"> | 122       | HOLD  |
-| `@botzmann`            | 604       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/195.png"> | 195       | HOLD  |
-| `@joyanna`             | 1894      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/133.png"> | 133       | HOLD  |
-| `@alekjoy`             | 2174      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/-.png">   | -         | HOLD  |
-| `@zazik`               | 2435      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/61.png">  | 61        | HOLD  |
-| `@makszagaria`         | 3428      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/123.png"> | 123       | HOLD  |
-| `@ismail`              | 3646      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/128.png"> | 128       | HOLD  |
-| `@Palllke`             | 4108      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/141.png"> | 141       | HOLD  |
-| `@sasha`               | 1015      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/143.png"> | 143       | HOLD  |
-| `@stavr`               | 1027      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/70.png">  | 70        | HOLD  |
-| `@adams2002`           | 4008      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/218.png"> | 218       | HOLD  |
-| `@kirillmagicpie`      | 2156      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/126.png"> | 126       | HOLD  |
-| `@kudo94`              | 772       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/150.png"> | 150       | HOLD  |
-| `@blxpro`              | 782       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/140.png"> | 140       | HOLD  |
-| `@spat_sochi`          | 1843      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/59.png">  | 59        | HOLD  |
-| `@crptowolf`           | 3594      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/100.png"> | 100       | HOLD  |
-| `@kadyrovs`            | 1345      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/111.png"> | 111       | HOLD  |
-| `@polikosi`            | 2673      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/102.png"> | 102       | HOLD  |
-| `@yyagi`               | 3098      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/154.png"> | 154       | HOLD  |
-
-
+| `@Deathix`             | 4236      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/105.png"> | 105       | HOLD  |
+| `@andicapitan`         | 770       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/158.png"> | 158       | HOLD  |
+| `@hayabusa`            | 582       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/58.png">  | 58        | HOLD  |
+| `@alenleps`            | 2682      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/113.png"> | 113       | HOLD  |
+| `@lesnik_utsa`         | 597       | 23.09.22     | <img width="40" src="/avatars/primary-avatar/183.png"> | 183       | HOLD  |
+| `@arsi44_dst`          | 3639      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/110.png"> | 110       | HOLD  |
+| `@arseniy2706`         | 1521      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/119.png"> | 119       | HOLD  |
+| `@sieemma`             | 458       | 29.09.22     | <img width="40" src="/avatars/primary-avatar/213.png"> | 213       | HOLD  |
+| `@Genius`              | 4215      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/203.png"> | 203       | HOLD  |
+| `@svdeshka`            | 590       | 29.09.22     | <img width="40" src="/avatars/primary-avatar/116.png"> | 116       | HOLD  |
+| `@ivant`               | 3089      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/122.png"> | 122       | HOLD  |
+| `@botzmann`            | 604       | 29.09.22     | <img width="40" src="/avatars/primary-avatar/195.png"> | 195       | HOLD  |
+| `@joyanna`             | 1894      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/133.png"> | 133       | HOLD  |
+| `@alekjoy`             | 2174      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/32.png">  | 32        | HOLD  |
+| `@zazik`               | 2435      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/61.png">  | 61        | HOLD  |
+| `@makszagaria`         | 3428      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/123.png"> | 123       | HOLD  |
+| `@ismail`              | 3646      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/128.png"> | 128       | HOLD  |
+| `@Palllke`             | 4108      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/141.png"> | 141       | HOLD  |
+| `@sasha`               | 1015      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/143.png"> | 143       | HOLD  |
+| `@stavr`               | 1027      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/70.png">  | 70        | HOLD  |
+| `@adams2002`           | 4008      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/218.png"> | 218       | HOLD  |
+| `@kirillmagicpie`      | 2156      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/126.png"> | 126       | HOLD  |
+| `@kudo94`              | 772       | 29.09.22     | <img width="40" src="/avatars/primary-avatar/150.png"> | 150       | HOLD  |
+| `@blxpro`              | 782       | 29.09.22     | <img width="40" src="/avatars/primary-avatar/140.png"> | 140       | HOLD  |
+| `@spat_sochi`          | 1843      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/59.png">  | 59        | HOLD  |
+| `@crptowolf`           | 3594      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/100.png"> | 100       | HOLD  |
+| `@kadyrovs`            | 1345      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/111.png"> | 111       | HOLD  |
+| `@polikosi`            | 2673      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/102.png"> | 102       | HOLD  |
+| `@yyagi`               | 3098      | 29.09.22     | <img width="40" src="/avatars/primary-avatar/154.png"> | 154       | HOLD  |
+| `@kriptos`             | 513       | 11.10.22     | <img width="40" src="/avatars/primary-avatar/153.png"> | 153       | HOLD  |
+| `@xfactorus`           | 635       | 11.10.22     | <img width="40" src="/avatars/primary-avatar/-1.png">  | -1        | HOLD  |
+| `@1337member`          | 786       | 11.10.22     | <img width="40" src="/avatars/primary-avatar/220.png"> | 220       | HOLD  |
+| `@moodman`             | 909       | 11.10.22     | <img width="40" src="/avatars/primary-avatar/209.png"> | 209       | HOLD  |
+| `@darijn`              | 1101      | 11.10.22     | <img width="40" src="/avatars/primary-avatar/164.png"> | 164       | HOLD  |
+| `@prontera`            | 1737      | 11.10.22     | <img width="40" src="/avatars/primary-avatar/210.png"> | 210       | HOLD  |
+| `@vagif`               | 1747      | 11.10.22     | <img width="40" src="/avatars/primary-avatar/204.png"> | 204       | HOLD  |
+| `@itsys4`              | 1961      | 11.10.22     | <img width="40" src="/avatars/primary-avatar/132.png"> | 132       | HOLD  |
+| `@abramaria_`          | 3082      | 11.10.22     | <img width="40" src="/avatars/primary-avatar/182.png"> | 182       | HOLD  |
+| `@ferdikesh_studio`    | 3323      | 11.10.22     | <img width="40" src="/avatars/primary-avatar/206.png"> | 206       | HOLD  |
+| `@secret_girl`         | 3443      | 11.10.22     | <img width="40" src="/avatars/primary-avatar/73.png">  | 73        | HOLD  |
+| `@gyroflaw`            | 4141      | 11.10.22     | <img width="40" src="/avatars/primary-avatar/151.png"> | 151       | HOLD  |
+| `@x3mario`             | 4353      | 11.10.22     | <img width="40" src="/avatars/primary-avatar/66.png">  | 66        | HOLD  |
 <!---|`-`                  | -       |IMF/12.02.21|<img width="40" src="avatars/primary-avatar/-.png>   | 4    |--->
 
 
@@ -149,6 +160,8 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/22-drmarkovi.png">
 <br>
+<img width="200" src="/avatars/selected-avatars/24-zeeshan.png">
+<br>
 <img width="200" src="/avatars/selected-avatars/25-isonar.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/26-kate_fm.png">
@@ -158,6 +171,8 @@
 <img width="200" src="/avatars/selected-avatars/29-maxlevush.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/31-tomato.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/32-alekjoy.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/33-kalpakci.png">
 <br>
@@ -201,9 +216,13 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/61-zazik.png">
 <br>
+<img width="200" src="/avatars/selected-avatars/66-x3mario.png">
+<br>
 <img width="200" src="/avatars/selected-avatars/70-stavr.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/71-klaudiusz.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/73-secret_girl.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/76-lezek.png">
 <br>
@@ -253,6 +272,8 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/128-ismail.png">
 <br>
+<img width="200" src="/avatars/selected-avatars/132-itsys4.png">
+<br>
 <img width="200" src="/avatars/selected-avatars/133-joyanna.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/138-fujii.png">
@@ -269,13 +290,21 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/150-kudo94.png">
 <br>
+<img width="200" src="/avatars/selected-avatars/151-gyroflaw.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/153-kriptos.png">
+<br>
 <img width="200" src="/avatars/selected-avatars/154-yyagi.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/158-andicapitan.png">
 <br>
+<img width="200" src="/avatars/selected-avatars/164-darijn.png">
+<br>
 <img width="200" src="/avatars/selected-avatars/168-flakes9776.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/175-vladislav220294.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/182-abramaria_.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/183-lesnik_utsa.png">
 <br>
@@ -289,15 +318,27 @@
 <br>
 <img width="200" src="/avatars/selected-avatars/203-Genius.png">
 <br>
+<img width="200" src="/avatars/selected-avatars/204-vagif.png">
+<br>
 <img width="200" src="/avatars/selected-avatars/205-benholdencrowther.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/206-ferdikesh_studio.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/208-kira_skipper.png">
 <br>
+<img width="200" src="/avatars/selected-avatars/209-moodman.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/210-prontera.png">
+<br>
 <img width="200" src="/avatars/selected-avatars/211-Craci_BwareLabs.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/212-iorveth.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/213-sieemma.png">
 <br>
 <img width="200" src="/avatars/selected-avatars/218-adams2002.png">
+<br>
+<img width="200" src="/avatars/selected-avatars/220-1337member.png">
 
 ### Note on "Initial Founding Members"
 _Although all existing community members were given the opportunity to claim points through the summary submission system for their contributions which were made before this program was launched, we agreed that for some of our most active and engaged participants, it was neither practical nor fair to have them formally account for all of their many contributions to the project which took place over months of participation._
