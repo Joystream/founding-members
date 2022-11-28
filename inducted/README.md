@@ -41,7 +41,7 @@
 | `@kalpakci`            | 2137      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/33.png">  | 33        | 38    |
 | `@alexznet`            | 2574      | 05.08.22     | <img width="40" src="/avatars/primary-avatar/54.png">  | 54        | 39    |
 | `@akondratiev`         | 4466      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/212.png"> | 212       | 40    |
-| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 41    |
+| `@bedeho`              | 151       | 19.09.21     | <img width="40" src="/avatars/primary-avatar/27.png">  | 27        | 41    |
 | `@benholdencrowther`   | 7         | 19.09.21     | <img width="40" src="/avatars/primary-avatar/205.png"> | 205       | 42    |
 | `@eldiegod`            | 4384      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/93.png">  | 93        | 43    |
 | `@dmtrmltsv`           | 4401      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/86.png">  | 86        | 44    |
@@ -130,13 +130,32 @@
 | `@goksel`              | 3655      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/112.png"> | 112       | HOLD  |
 | `@surpaul`             | 1999      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/193.png"> | 193       | HOLD  |
 | `@_e9orov_`            | 3611      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/216.png"> | 216       | HOLD  |
-| `@Codefikeyz`          | 4129      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/-1.png">  | -1        | HOLD  |
+| `@Codefikeyz`          | 4129      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/57.png">  | 57        | HOLD  |
 | `@codervv`             | 2440      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/134.png"> | 134       | HOLD  |
 | `@np900`               | 2276      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/144.png"> | 144       | HOLD  |
 | `@godshunter`          | 1541      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/156.png"> | 156       | HOLD  |
 | `@Kyler_Zm`            | 4166      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/103.png"> | 103       | HOLD  |
 | `@plycho`              | 2141      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/75.png">  | 75        | HOLD  |
 | `@F1rst`               | 4259      | 03.11.22     | <img width="40" src="/avatars/primary-avatar/146.png"> | 146       | HOLD  |
+| `@dd659`               | 1219      | 16.11.22     | <img width="40" src="/avatars/primary-avatar/131.png"> | 131       | HOLD  |
+| `@tremtremson`         | 4279      | 16.11.22     | <img width="40" src="/avatars/primary-avatar/135.png"> | 135       | HOLD  |
+| `@advo`                | 4095      | 16.11.22     | <img width="40" src="/avatars/primary-avatar/107.png"> | 107       | HOLD  |
+| `@Katya`               | 4346      | 16.11.22     | <img width="40" src="/avatars/primary-avatar/152.png"> | 152       | HOLD  |
+| `@firuz89`             | 3625      | 16.11.22     | <img width="40" src="/avatars/primary-avatar/130.png"> | 130       | HOLD  |
+| `@victorythewave`      | 4327      | 16.11.22     | <img width="40" src="/avatars/primary-avatar/104.png"> | 104       | HOLD  |
+| `@Shahzad`             | 3947      | 16.11.22     | <img width="40" src="/avatars/primary-avatar/4.png">   | 4         | HOLD  |
+| `@arsonque`            | 1158      | 16.11.22     | <img width="40" src="/avatars/primary-avatar/165.png"> | 165       | HOLD  |
+| `@chaos77`             | 4406      | 16.11.22     | <img width="40" src="/avatars/primary-avatar/55.png">  | 55        | HOLD  |
+| `@optimusalgo91`       | 550       | 25.11.22     | <img width="40" src="/avatars/primary-avatar/219.png"> | 219       | HOLD  |
+| `@prettyfreak`         | 793       | 25.11.22     | <img width="40" src="/avatars/primary-avatar/67.png">  | 67        | HOLD  |
+| `@liskis87`            | 1921      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/147.png"> | 147       | HOLD  |
+| `@alex6370`            | 2032      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/60.png">  | 60        | HOLD  |
+| `@olgakuzia`           | 2345      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/161.png"> | 161       | HOLD  |
+| `@vladv77`             | 2549      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/167.png"> | 167       | HOLD  |
+| `@tes_hsn`             | 4093      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/187.png"> | 187       | HOLD  |
+| `@7185`                | 4211      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/194.png"> | 194       | HOLD  |
+| `@SASY`                | 4234      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/166.png"> | 166       | HOLD  |
+| `@investor`            | 4373      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/117.png"> | 117       | HOLD  |
 
 
 
