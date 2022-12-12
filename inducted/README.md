@@ -53,17 +53,16 @@
 | `@l3p`                 | 4448      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/180.png"> | 180       | 50    |
 | `@bwhm0`               | 1         | 19.09.21     | <img width="40" src="/avatars/primary-avatar/85.png">  | 85        | 51    |
 | `@metindemir`          | 4393      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/92.png">  | 92        | 52    |
-| `@mokhtar`             | 0         | 19.09.21     | <img width="40" src="/avatars/primary-avatar/142.png"> | 142       | 53    |
+| `@mokhtar`             | 8         | 19.09.21     | <img width="40" src="/avatars/primary-avatar/142.png"> | 142       | 53    |
 | `@ondratra`            | 4446      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/45.png">  | 45        | 54    |
 | `@bythekingmaker`      | 2962      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/106.png"> | 106       | 55    |
-| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 56    |
+| `@wyrdrender`          | 2344      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/217.png"> | 217       | 56    |
 | `@thesan`              | 4404      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/114.png"> | 114       | 57    |
 | `@zeeshan`             | 4432      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/24.png">  | 24        | 58    |
 | `@adamprzewoski`       | 4395      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/188.png"> | 188       | 59    |
 | `@bartosz`             | 4444      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/18.png">  | 18        | 60    |
-| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 61    |
-| HOLD                   | HOLD      | 19.09.21     | HOLD                                                   | HOLD      | 62    |
-| `@wyrdrender`          | 2344      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/217.png"> | 217       | 63    |
+| `@mrkubu`              | 4026      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/149.png"> | 149       | 61    |
+| `@kedyw`               | 4510s      | 19.09.21     | <img width="40" src="/avatars/primary-avatar/46.png">  | 46        | 62    |
 | `@kira_skipper`        | 2228      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/208.png"> | 208       | HOLD  |
 | `@songoku`             | 3336      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/120.png"> | 120       | HOLD  |
 | `@ardashoff`           | 2697      | 23.09.22     | <img width="40" src="/avatars/primary-avatar/52.png">  | 52        | HOLD  |
@@ -156,6 +155,16 @@
 | `@7185`                | 4211      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/194.png"> | 194       | HOLD  |
 | `@SASY`                | 4234      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/166.png"> | 166       | HOLD  |
 | `@investor`            | 4373      | 25.11.22     | <img width="40" src="/avatars/primary-avatar/117.png"> | 117       | HOLD  |
+| `@Gift_szn`            | 4351      | 01.12.22     | <img width="40" src="/avatars/primary-avatar/118.png"> | 118       | HOLD  |
+| `@nickomenty`          | 1781      | 01.12.22     | <img width="40" src="/avatars/primary-avatar/121.png"> | 121       | HOLD  |
+| `@vikan#4315`          | 4058      | 01.12.22     | <img width="40" src="/avatars/primary-avatar/90.png">  | 90        | HOLD  |
+| `@mmx1916`             | 3085      | 01.12.22     | <img width="40" src="/avatars/primary-avatar/30.png">  | 30        | HOLD  |
+| `@controlla`           | 2148      | 01.12.22     | <img width="40" src="/avatars/primary-avatar/136.png"> | 136       | HOLD  |
+| `@Black_fish`          | 4135      | 03.12.22     | <img width="40" src="/avatars/primary-avatar/10.png">  | 10        | HOLD  |
+| `@wasabi`              | 1497      | 03.12.22     | <img width="40" src="/avatars/primary-avatar/12.png">  | 12        | HOLD  |
+| `@BeardKoda`           | 4124      | 03.12.22     | <img width="40" src="/avatars/primary-avatar/178.png"> | 178       | HOLD  |
+| `@Counsellor`          | 4017      | 03.12.22     | <img width="40" src="/avatars/primary-avatar/79.png">  | 79        | HOLD  |
+| `@gru-dev-membership`  | 4183      | 03.12.22     | <img width="40" src="/avatars/primary-avatar/202.png"> | 202       | HOLD  |
 
 
 
